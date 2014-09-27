@@ -1,0 +1,98 @@
+[
+	{ "keys": ["super+shift+t"], "command": "reopen_last_file" },
+	//打开文件夹
+	{ "keys": ["super+o"], "command": "prompt_open" },
+	{ "keys": ["super+shift+s"], "command": "prompt_save_as" },
+	{ "keys": ["super+alt+s"], "command": "save_all" },
+	{ "keys": ["super+ctrl+p"], "command": "prompt_select_workspace" },
+
+	//对齐插件
+	{ "keys": ["super+alt+a"], "command": "alignment" },
+	{ "keys": ["alt+forward_slash"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["alt+shift+forward_slash"], "command": "toggle_comment", "args": { "block": true } },
+
+	//查找
+	{ "keys": ["super+shift+f"], "command": "fpp_find_in_current_file" },
+	{ "keys": ["super+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+	{ "keys": ["super+ctrl+f"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+
+	{ "keys": ["super+enter"], "command": "find_all", "args": {"close_panel": true},
+		 "context": [{"key": "panel", "operand": "find"}, {"key": "panel_has_focus"}]
+	},
+	{ "keys": ["super+enter"], "command": "find_all", "args": {"close_panel": true},
+		"context": [{"key": "panel", "operand": "replace"}, {"key": "panel_has_focus"}]
+	},
+	{ "keys": ["ctrl+super+enter"], "command": "replace_all", "args": {"close_panel": true},
+		 "context": [{"key": "panel", "operand": "replace"}, {"key": "panel_has_focus"}]
+	},
+	{ "keys": ["super+enter"], "command": "find_all", "args": {"close_panel": true},
+		"context": [{"key": "panel", "operand": "incremental_find"}, {"key": "panel_has_focus"}]
+	},
+
+	//copy
+	{ "keys": ["super+shift+v"], "command": "paste" },
+	{ "keys": ["super+v"], "command": "paste_and_indent" },
+
+	//select
+	{ "keys": ["ctrl+shift+b"], "command": "expand_selection", "args": {"to": "brackets"} },
+	{ "keys": ["ctrl+shift+t"], "command": "expand_selection", "args": {"to": "tag"} },
+
+	//
+	{ "keys": ["ctrl+d"], "command": "find_under_expand" },
+
+	//
+	{ "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+
+	//alt control ui toggle
+	{ "keys": ["alt+enter"], "command": "toggle_full_screen" },
+	{ "keys": ["alt+a"], "command": "toggle_side_bar" },
+	{ "keys": ["alt+backquote"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	{ "keys": ["alt+["], "command": "fold" },
+	{ "keys": ["alt+]"], "command": "unfold" },
+
+	//ctrl to control curson go to where
+	{ "keys": ["ctrl+alt+left"], "command": "move", "args": {"by": "subwords", "forward": false} },
+	{ "keys": ["ctrl+alt+right"], "command": "move", "args": {"by": "subword_ends", "forward": true} },
+	{ "keys": ["ctrl+alt+shift+left"], "command": "move", "args": {"by": "subwords", "forward": false, "extend": true} },
+	{ "keys": ["ctrl+alt+shift+right"], "command": "move", "args": {"by": "subword_ends", "forward": true, "extend": true} },
+	{ "keys": ["ctrl+m"], "command": "move_to", "args": {"to": "brackets"} },
+	{ "keys": ["ctrl+["], "command": "prev_view" },
+	{ "keys": ["ctrl+]"], "command": "next_view" },
+	{ "keys": ["ctrl+1"], "command": "select_by_index", "args": { "index": 0 } },
+	{ "keys": ["ctrl+2"], "command": "select_by_index", "args": { "index": 1 } },
+	{ "keys": ["ctrl+3"], "command": "select_by_index", "args": { "index": 2 } },
+	{ "keys": ["ctrl+4"], "command": "select_by_index", "args": { "index": 3 } },
+	{ "keys": ["ctrl+5"], "command": "select_by_index", "args": { "index": 4 } },
+	{ "keys": ["ctrl+6"], "command": "select_by_index", "args": { "index": 5 } },
+	{ "keys": ["ctrl+7"], "command": "select_by_index", "args": { "index": 6 } },
+	{ "keys": ["ctrl+8"], "command": "select_by_index", "args": { "index": 7 } },
+	{ "keys": ["ctrl+9"], "command": "select_by_index", "args": { "index": 8 } },
+	{ "keys": ["ctrl+0"], "command": "focus_side_bar" },
+	{ "keys": ["ctrl+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+
+	{ "keys": ["ctrl+/"], "command": "goto_definition" },
+	{ "keys": ["ctrl+,"], "command": "jump_back" },
+	{ "keys": ["ctrl+."], "command": "jump_forward" },
+
+	{ "keys": ["ctrl+delete"], "command": "delete_word", "args": { "forward": true, "sub_words": true } },
+
+	{ "keys": ["super+]"], "command": "indent" },
+	{ "keys": ["super+["], "command": "unindent" },
+
+
+	//bookmark
+	{ "keys": ["f2"], "command": "next_bookmark" },
+	{ "keys": ["shift+f2"], "command": "prev_bookmark" },
+	{ "keys": ["super+f2"], "command": "toggle_bookmark" },
+	{ "keys": ["super+shift+f2"], "command": "clear_bookmarks" },
+	{ "keys": ["alt+f2"], "command": "select_all_bookmarks" },
+
+	//设置
+	{ "keys": ["super+,"], "command": "open_file", "args": {"file": "${packages}/User/Preferences.sublime-settings"} },
+
+	//fuzzy
+	{
+        "keys": ["super+b"],
+        "command": "fuzzy_bookmarks_load"
+    },
+]
