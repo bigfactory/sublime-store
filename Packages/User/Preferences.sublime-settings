@@ -5,6 +5,7 @@
 	"auto_find_in_selection": true,
 	"bold_folder_labels": false,
 	"caret_extra_width": 1,
+	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"draw_white_space": "all",
 	"enable_tab_scrolling": true,

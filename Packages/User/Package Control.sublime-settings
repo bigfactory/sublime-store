@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"ApplySyntax",
 		"BetterFindBuffer",
 		"Codecs33",
 		"ColorPicker",
