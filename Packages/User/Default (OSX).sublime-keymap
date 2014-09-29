@@ -91,9 +91,6 @@
 	{ "keys": ["super+,"], "command": "open_file", "args": {"file": "${packages}/User/Preferences.sublime-settings"} },
 	{ "keys": ["super+."], "command": "open_file", "args": {"file": "${packages}/User/Default (OSX).sublime-keymap"} },
 
-	//fuzzy
-	{
-        "keys": ["super+b"],
-        "command": "fuzzy_bookmarks_load"
-    },
+	//markdown preview
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
 ]
