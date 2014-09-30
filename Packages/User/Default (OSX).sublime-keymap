@@ -32,6 +32,7 @@
 	//copy
 	{ "keys": ["super+shift+v"], "command": "paste" },
 	{ "keys": ["super+v"], "command": "paste_and_indent" },
+	{ "keys": ["super+shift+d"], "command": "duplicate_line" },
 
 	//select
 	{ "keys": ["ctrl+shift+b"], "command": "expand_selection", "args": {"to": "brackets"} },

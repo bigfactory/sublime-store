@@ -1,4 +1,12 @@
 {
+	"INI":
+	[
+		".gitattributes",
+		".gitconfig",
+		".gitignore",
+		".npmrc",
+		"ini.dist"
+	],
 	"PHP":
 	[
 		"inc",
