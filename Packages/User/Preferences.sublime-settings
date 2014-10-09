@@ -68,7 +68,7 @@
 	"show_full_path": true,
 	"show_line_endings": true,
 	"theme": "Spacegray.sublime-theme",
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": false,
 	"use_simple_full_screen": true,
 	"word_wrap": false
 }
