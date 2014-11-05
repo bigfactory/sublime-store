@@ -1,11 +1,24 @@
 {
 	"folder_history":
 	[
-		"/lab/huamingche",
+		"/lab/alinpm",
+		"/lab/undefined",
+		"/gitlab/buy/demo",
+		"/gitlab/cm/rob",
 		"/proxy",
-		"/proxy/node_modules/proxy-util",
-		"/github/nproxy-plus",
+		"/gitlab/zinc.lx/buy-order-data",
+		"/gitlab/tm/buy-base",
 		"/gitlab/tm",
+		"/gitlab/cm/wiki",
+		"/gitlab/tm/buy-m",
+		"/gitlab/tm/buy-order-m",
+		"/github/nproxy-plus",
+		"/gitlab/tb/cart",
+		"/gitlab/mtb/app-order-buy",
+		"/gitlab/sj/alifolder-m",
+		"/usr/local/lib/node_modules/nproxy-plus",
+		"/lab/huamingche",
+		"/proxy/node_modules/proxy-util",
 		"/gitlab/cm",
 		"/gitlab/tb",
 		"/gitlab/tm/buy",
@@ -26,7 +39,7 @@
 		"/Users/john/Work/playground/git_example/js"
 	],
 	"last_version": 3065,
-	"last_window_id": 79,
+	"last_window_id": 158,
 	"log_indexing": false,
 	"settings":
 	{
@@ -37,6 +50,18 @@
 			{
 				"selected_items":
 				[
+					[
+						"conf",
+						"confirmOrder"
+					],
+					[
+						"con",
+						"confirmOrder"
+					],
+					[
+						"order",
+						"orderData"
+					],
 					[
 						"ti",
 						"time"
@@ -179,134 +204,134 @@
 			},
 			"file_history":
 			[
-				"/gitlab/tm/buy/src/init.js",
-				"/gitlab/tm/buy/src/mod/address.js",
-				"/gitlab/tm/buy/src/app.js",
-				"/gitlab/tm/buy/src/util.js",
-				"/gitlab/tm/buy/src/data.js",
-				"/gitlab/tm/buy/src/mod/order.js",
-				"/gitlab/tm/buy/gulpfile.js",
-				"/gitlab/tm/buy/build/seed.js",
-				"/proxy/tbc:address:index-min.js",
-				"/gitlab/tm/buy/src/config.json",
-				"/Users/john/buy.sublime-project",
-				"/gitlab/tb/buy/mt/mods/terms/pc/index.js",
-				"/gitlab/tb/buy/mt/mods/terms/pc/eticket.js",
-				"/proxy/rule.config.js",
+				"/lab/undefined/index.js",
+				"/lab/undefined/package.json",
+				"/lab/alinpm/package.json",
+				"/gitlab/buy/demo/build/index.html",
+				"/gitlab/buy/demo/gulpfile.js",
+				"/gitlab/buy/demo/build/base/xtpl-ext/view.js",
+				"/gitlab/buy/demo/build/base/engine.js",
+				"/gitlab/buy/demo/build/base/model.js",
+				"/gitlab/buy/demo/build/base/view.js",
+				"/gitlab/buy/demo/build/app.js",
+				"/gitlab/buy/demo/build/base/event-ext/listento.js",
 				"/Users/john/.bash_profile",
-				"/Users/john/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/john/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/john/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/john/Work/文档/2014.09.25周报.md",
-				"/Users/john/Work/static/rule.config.js",
-				"/Users/john/Work/repos/nproxy/lib/log.js",
-				"/Users/john/Work/repos/nproxy/package.json",
-				"/Users/john/Work/repos/nproxy/rule.config.js",
-				"/Users/john/Work/repos/nproxy/start.js",
-				"/Users/john/Work/repos/nproxy/lib/nproxy.js",
-				"/Users/john/Work/static/rule.ini",
-				"/Users/john/Work/static/rule.list.ini",
-				"/Users/john/Work/repos/tb-buy/mt/core/render/tpl-engine/xtemplate.js",
-				"/Users/john/Work/repos/tm-buy/src/init.js",
-				"/Users/john/Work/repos/tm-buy/src/app.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/confirmOrder/pc/index.xtpl.html",
-				"/Users/john/Work/repos/tb-buy/mt/index.js",
-				"/Users/john/Work/repos/tb-buy/Gruntfile.js",
-				"/Users/john/Work/repos/tb-buy/build/mt/mods-dep.js",
-				"/Users/john/Work/repos/tb-buy/build/mt/core-min.js",
-				"/Users/john/Work/static/kissy-global.js",
-				"/Users/john/Work/repos/tm-buy/demo/index.html",
-				"/Users/john/Work/repos/tm-buy/gulpfile.js",
-				"/Users/john/Work/repos/tm-buy/README.md",
-				"/Users/john/Work/repos/tm-buy/README.html",
-				"/Users/john/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
-				"/Users/john/Work/repos/tm-buy/demo/package.json",
-				"/Users/john/Work/repos/tb-buy/mt/core/meta/factory.js",
-				"/Users/john/Work/repos/tb-buy/mt/core/render/sub-models/html-generator.js",
-				"/Users/john/Work/repos/tb-buy/mt/demo/pc.html",
-				"/Users/john/Work/repos/tb-buy/mt/core/index.js",
-				"/Users/john/Work/repos/tb-buy/mt/core/render/render.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/stepbar/pc/index.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/stepbar/pc/index.xtpl.html",
-				"/Users/john/Work/repos/tb-buy/mt/mods/confirmOrder/pc/index-xtpl.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/confirmOrder/pc/index.css",
-				"/Users/john/Work/repos/tb-buy/mt/core/render/data-structure/drawn-info.js",
-				"/Users/john/Work/repos/tb-buy/mt/demo/server.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/anyChannel/pc/index.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/seaFw/pc/index.js",
-				"/Users/john/Desktop/g.tbcdn.cn.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/address/pc/index.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/dsDesc/pc/index.js",
-				"/Users/john/Work/repos/rob/src/mode/linkage.js",
-				"/Users/john/Work/repos/rob/src/mode/instance.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/realPay/index.html",
-				"/Users/john/Work/repos/app-order-buy/src/mods/orderPay/index.html",
-				"/Users/john/Work/repos/rob/src/mode/README.md",
-				"/Users/john/Work/repos/app-order-buy/demo/data/mock.json",
-				"/Users/john/Work/repos/app-order-buy/demo/server.js",
-				"/Users/john/Work/repos/rob/json/mock_data.json",
-				"/Users/john/Work/repos/rob/src/mode/component.js",
-				"/Users/john/Work/repos/app-order-buy/json/mock.json",
-				"/Users/john/Work/repos/app-order-buy/src/mods/confirmOrder/index.html",
-				"/Users/john/Work/repos/alifolder-m/src/app.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/orderPay/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/realPay/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/terms/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/orderInfo/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/orderBond/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/invalidGroup/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/input/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/deliveryMethod/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/bridge/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/address/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/activity/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/page.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/submitOrder/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/confirmOrder/index.js",
-				"/Users/john/Work/repos/alifolder-m/index.html",
-				"/Users/john/Work/repos/alifolder-m/src/controllers/item/folder.js",
-				"/Users/john/Work/repos/alifolder-m/src/mediators/dataload.js",
-				"/Users/john/Work/repos/alifolder-m/src/pages/show.js",
-				"/Users/john/Work/repos/alifolder-m/src/mediators/route.js",
-				"/Users/john/Work/repos/alifolder-m/src/models/pagemodel.js",
-				"/Users/john/Work/repos/alifolder-m/src/mediators/singlerenderer.js",
-				"/Users/john/Work/repos/alifolder-m/src/controllers/panel/listpanel.js",
-				"/Users/john/Work/repos/alifolder-m/src/controllers/nav/nav.js",
-				"/Users/john/Work/repos/alifolder-m/src/mediators/render.js",
-				"/Users/john/Work/repos/alifolder-m/src/controllers/panel/panel.js",
-				"/Users/john/Work/repos/alifolder-m/src/models/client.js",
-				"/Users/john/Work/repos/alifolder-m/src/sdk/sdk-mobile.js",
-				"/Users/john/Work/repos/alifolder-m/src/base.js",
-				"/Users/john/Work/repos/rob/src/mode/hierarchy.js",
-				"/Users/john/Work/repos/rob/demo/data/mock.json",
-				"/Users/john/Work/repos/rob/src/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/tpl/.cache/confirmOrder/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/core/publicMods.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/toggle/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/buy.js",
-				"/Users/john/Work/repos/app-order-buy/src/core/render.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/toggle/index.html",
-				"/Users/john/Work/repos/app-order-buy/src/tpl/.cache/address/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/tpl/$helpers.js",
-				"/Users/john/Work/repos/app-order-buy/Gruntfile.js",
-				"/Users/john/Work/repos/app-order-buy/src/tpl/template.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/package.json",
-				"/Users/john/Work/repos/app-order-buy/src/tpl/confirmOrder/index.js",
-				"/Users/john/Work/repos/app-order-buy/node_modules/grunt-shell/tasks/shell.js",
-				"/Users/john/Work/repos/app-order-buy/package.json",
-				"/Users/john/Work/repos/app-order-buy/node_modules/grunt-shell/package.json",
-				"/Users/john/Work/repos/app-order-buy/src/core/template.js",
-				"/Users/john/Work/repos/rob/README.md",
-				"/Users/john/Work/repos/app-order-buy/build/page.debug.js",
-				"/Users/john/Work/repos/app-order-buy/demo/index.html",
-				"/Users/john/Work/repos/app-order-buy/demo/cartApp.html",
-				"/Users/john/Work/repos/app-order-buy/demo/demo.html",
-				"/Users/john/Desktop/mtb.js",
-				"/Users/john/Library/Application Support/Sublime Text 3/Packages/JsFormat/Default (OSX).sublime-keymap",
-				"/Users/john/Work/repos/app-order-buy/build/buy.debug.js",
-				"/Users/john/Work/repos/app-order-buy/README.md",
-				"/Users/john/Work/repos/app-order-buy/src/core/mtop.js",
-				"/Users/john/Work/repos/tb-buy/mt/demo/pad.html"
+				"/Users/john/.gitconfig",
+				"/gitlab/tm/buy/src/mod/order.js",
+				"/gitlab/tm/buy/src/data.js",
+				"/gitlab/tm/buy/src/mod/address.js",
+				"/gitlab/tm/buy/src/mod/point.js",
+				"/gitlab/tm/buy/src/mod/addrService.js",
+				"/gitlab/tm/buy/src/mod/quantity.js",
+				"/gitlab/tm/buy/src/mod/service.js",
+				"/gitlab/tm/buy/src/mod/addrUpdate.js",
+				"/gitlab/tb/buy/mt/core/index.js",
+				"/gitlab/tb/buy/mt/core/render/render.js",
+				"/gitlab/tb/buy/mt/mods/deliveryMethod/pc/index.js",
+				"/gitlab/tb/buy/mt/mods/deliveryMethod/pc/addrupdate.xtpl.html",
+				"/gitlab/tb/buy/mt/mods/deliveryMethod/pc/calendar.xtpl.html",
+				"/gitlab/tb/buy/mt/mods/deliveryMethod/pc/index.xtpl.html",
+				"/gitlab/tb/buy/mt/core/render/tpl-engine/xtemplate.js",
+				"/gitlab/tm/buy/src/mod/addrMaker.css",
+				"/gitlab/tm/buy/src/mod/agencyPay.js",
+				"/gitlab/tm/buy/src/mod/addrOption.js",
+				"/gitlab/tm/buy/src/mod/postage.js",
+				"/gitlab/tb/buy/mt/mods/address/pc/index.js",
+				"/gitlab/tb/buy/mt/mods/agencyPay/pc/index-xtpl.js",
+				"/gitlab/tb/buy/mt/mods/agencyPay/pc/index.js",
+				"/gitlab/tb/buy/Gruntfile.js",
+				"/gitlab/tb/buy/mt/whitelist.js",
+				"/gitlab/tb/buy/mt/tasks/outputMods.js",
+				"/gitlab/tb/buy/mt/mods/agencyPay/pc/index.xtpl.html",
+				"/gitlab/tb/buy/mt/mods/activity/pc/chooseGift.xtpl.html",
+				"/gitlab/tb/buy/mt/core/render/sub-models/html-generator.js",
+				"/gitlab/tb/buy/mt/index.js",
+				"/gitlab/tb/buy/mt/core/public.js",
+				"/gitlab/tb/buy/mt/tasks/createMod.js",
+				"/gitlab/tb/buy/mt/mods/dsDesc/pc/index.js",
+				"/gitlab/tb/buy/build/mt/mods-dep.js",
+				"/gitlab/tb/buy/mt/mods/activity/pc/chooseGift-xtpl.js",
+				"/gitlab/tm/buy/src/app.js",
+				"/gitlab/tm/buy-m/src/init.js",
+				"/gitlab/tm/buy-m/src/app.js",
+				"/gitlab/tm/buy-m/src/data.js",
+				"/gitlab/tm/buy-m/src/mod/address.js",
+				"/gitlab/tm/buy-m/src/mio.js",
+				"/gitlab/tm/buy-order-m/build/seed.js",
+				"/gitlab/tm/buy-order-m/build/aio.js",
+				"/gitlab/tm/buy-order-m/src/model.js",
+				"/gitlab/tm/buy-order-m/src/init.js",
+				"/gitlab/tm/buy-order-m/src/render/order.js",
+				"/gitlab/tm/buy-order-m/src/biz/addr.js",
+				"/gitlab/tm/buy/src/init.js",
+				"/gitlab/tb/buy/mt/core/meta/polymorphism/linkage-layer/default-linkage-layer.js",
+				"/gitlab/tb/buy/mt/core/meta/data-structure/linkage-init-args.js",
+				"/gitlab/tb/buy/mt/core/async/async.js",
+				"/gitlab/tb/buy/mt/core/meta/data-structure/async-response-data.js",
+				"/gitlab/tm/buy/src/mod/go.js",
+				"/gitlab/tm/buy/src/mod/checkCode.js",
+				"/gitlab/tm/buy/src/mod/invalid.js",
+				"/gitlab/tm/buy/src/config.json",
+				"/gitlab/tm/buy/src/mod/userAuth.js",
+				"/gitlab/tb/buy/mt/core/loader/sub-models/folder-structure.js",
+				"/gitlab/tb/buy/mt/core/loader/data-structure/request-methods.js",
+				"/gitlab/tb/buy/mt/mods/deliveryGuide/pc/index.js",
+				"/gitlab/tb/buy/node_modules/kissy/bin/kissy-xtemplate.js",
+				"/gitlab/tm/buy/src/mod/misc.js",
+				"/gitlab/tm/buy/src/mod/stepbar.js",
+				"/gitlab/tb/buy/mt/demo/data/mock-pc.json",
+				"/Users/john/Desktop/mock_data.json",
+				"/gitlab/tb/buy/mt/mods/address/pc/index.xtpl.html",
+				"/gitlab/tb/buy/mt/mods/confirmOrder/pc/index-xtpl.js",
+				"/gitlab/tm/buy/src/mod/authyao.js",
+				"/gitlab/tm/buy/src/mod/memo.js",
+				"/gitlab/tm/buy/src/mod/addrMaker.js",
+				"/gitlab/tm/buy/src/seed.js",
+				"/Users/john/Desktop/seed.js",
+				"/gitlab/mtb/app-order-buy/src/mods/itemPay/index.js",
+				"/gitlab/mtb/app-order-buy/src/mods/multiSelect/index.js",
+				"/gitlab/mtb/app-order-buy/src/tpl/confirmOrder/index.js",
+				"/gitlab/mtb/app-order-buy/src/mods/order/index.js",
+				"/gitlab/mtb/app-order-buy/src/mods/deliveryMethod/index.js",
+				"/gitlab/mtb/app-order-buy/src/mods/confirmOrder/index.js",
+				"/gitlab/tb/buy/mt/mods/address/pc/index-xtpl.js",
+				"/gitlab/tb/buy/mt/mods/itemPay/pc/index.xtpl.html",
+				"/gitlab/mtb/app-order-buy/src/mods/confirmOrder/index.html",
+				"/gitlab/mtb/app-order-buy/src/core/render.js",
+				"/gitlab/tb/buy/mt/core/loader/loader.js",
+				"/gitlab/mtb/app-order-buy/src/page.js",
+				"/gitlab/mtb/app-order-buy/src/buy.js",
+				"/gitlab/tb/buy/mt/mods/address/pc/bottom.xtpl.html",
+				"/gitlab/mtb/app-order-buy/src/core/template.js",
+				"/gitlab/mtb/app-order-buy/src/core/publicMods.js",
+				"/gitlab/tm/buy/src/mod/serviceAddress.js",
+				"/gitlab/tb/buy/mt/core/meta/utility/meta-helper.js",
+				"/gitlab/tm/buy/src/mod/realPay.js",
+				"/gitlab/tm/buy/less/inc/address.less",
+				"/gitlab/tm/buy/less/aio.less",
+				"/gitlab/tm/buy/font/iconfont.ttf",
+				"/gitlab/tm/buy/font/iconfont.svg",
+				"/gitlab/tm/buy/doc/serviceAddress.md",
+				"/gitlab/tm/buy/doc/postage.md",
+				"/gitlab/tm/buy/doc/address.md",
+				"/gitlab/tb/buy/mt/mods/checkCode/pc/index.js",
+				"/gitlab/tb/buy/mt/core/meta/sub-models/component.js",
+				"/gitlab/tb/buy/mt/base/table/index.css",
+				"/gitlab/tb/buy/mt/widgets/errpopup.js",
+				"/gitlab/tb/buy/mt/core/render/data-structure/drawn-info.js",
+				"/gitlab/tb/buy/mt/core/render/data-structure/refer-info.js",
+				"/gitlab/tb/buy/mt/core/render/data-structure/link-info.js",
+				"/gitlab/tb/buy/mt/mods/promotion/pc/index.js",
+				"/gitlab/tb/buy/mt/widgets/mag.js",
+				"/gitlab/tb/buy/mt/widgets/loading.js",
+				"/gitlab/tb/buy/mt/widgets/icotip.js",
+				"/gitlab/tb/buy/mt/core/meta/data-structure/runtime-fields.js",
+				"/gitlab/tb/buy/mt/core/meta/sub-models/linkage.js",
+				"/gitlab/tb/buy/mt/core/meta/sub-models/instance.js",
+				"/gitlab/tb/buy/mt/core/meta/sub-models/device.js",
+				"/gitlab/tb/buy/mt/core/meta/polymorphism/default-meta.js",
+				"/gitlab/tb/buy/mt/core/meta/polymorphism/meta-layer/default-meta-layer.js",
+				"/gitlab/tb/buy/mt/core/meta/polymorphism/instance-layer/default-instance-layer.js"
 			],
 			"find":
 			{
@@ -317,7 +342,24 @@
 				"height": 93.0,
 				"where_history":
 				[
+					"/gitlab/tm/buy/src/mod",
 					"/gitlab/tm/buy/src",
+					"/gitlab/tm/buy/src/mod",
+					"/gitlab/tm/buy/src",
+					"/gitlab/tm/buy",
+					"/gitlab/tm/buy/src",
+					"/gitlab/mtb/app-order-buy/src",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy",
+					"/gitlab/tm/buy/src",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tm/buy/src",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tm/buy/src",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
 					"/gitlab/cm/rob",
 					"/Users/john/Work/static/rule.config.js",
 					"/Users/john/Work/repos/tb-buy/mt/mods",
@@ -355,13 +397,119 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"tbc/address/",
-					"全部地址",
-					"选择收货地址",
-					"全部地址",
-					"地址",
-					"record",
-					"tbc/address",
+					"devel",
+					"function",
+					"git",
+					"lazy",
+					"mutex",
+					"mutes",
+					"mutex",
+					"mutes",
+					"Data.parent",
+					"mutex",
+					"mu'te'x",
+					"engine",
+					"engin",
+					"a's'y'n'c",
+					"tasks",
+					"toOrderCore",
+					"async",
+					"selectAddr",
+					"Data",
+					"response",
+					"Data.async",
+					"async",
+					"a's'y'n'c",
+					"loadMods",
+					"counter",
+					"walk",
+					"merge",
+					"list2Map",
+					"Data.read",
+					"Data.all",
+					"async",
+					"a's'y'n'c",
+					"list2Map",
+					"useMod",
+					"tplTemplate",
+					"buy-base",
+					"stepbar",
+					"link",
+					"reload",
+					"Address",
+					"selectAddress",
+					"getModFullName",
+					"itemPay",
+					"definedPopup",
+					"payChange",
+					"includeChild",
+					"baseComponents",
+					"BASE_COM",
+					"BASE_",
+					"BASE-",
+					"calculate",
+					"payChange",
+					"datePicker",
+					"_addListener",
+					"mutex",
+					"validator",
+					"globalValidate",
+					"base/datePicker",
+					"base/input",
+					"errpopup",
+					"default-meta",
+					"default-instance-layer",
+					"getOriginalConfig",
+					"getErrorMsg",
+					"^.*$",
+					"getChildFromLinkInfo",
+					"linkChild",
+					"link",
+					"siblingData",
+					"childData",
+					"rootData",
+					"56.89",
+					"orderPay",
+					"itemPay",
+					"fieldsGetter",
+					"filedsGetter",
+					"change",
+					"chang'e",
+					"MakePoint",
+					"eticketDesc_2000034188797",
+					"tick",
+					"入园时间",
+					"J_CheckIn",
+					"J_selectDate",
+					"fn",
+					"J_selectDate",
+					"CalendarTPL",
+					"datePicker",
+					"Slide",
+					"debugger",
+					"orderd",
+					"fromCart",
+					"^.*$",
+					"globalV",
+					"change",
+					"del",
+					"addr",
+					"deli",
+					"addr",
+					"click",
+					"core",
+					"debugger",
+					"Data",
+					"useMod",
+					"Order",
+					"event",
+					"on",
+					"parseGroup",
+					"initOne",
+					"biz",
+					"bi'z",
+					"linkpage",
+					"link'pa'ge",
 					"Factory",
 					"/Users/john/Work/repos",
 					"/Users/john/Work/static",
@@ -376,113 +524,7 @@
 					"document.domain",
 					"l",
 					"document.domain",
-					"taobao",
-					"z",
-					"taob",
-					"_ref",
-					"structure",
-					"_orderRelation",
-					"_updatePrice",
-					"deliveryMethod",
-					"deliveryMethor",
-					"delivery",
-					"randomId",
-					"deliveryMethod_b_19937842215",
-					"realpay",
-					"refreshRelation",
-					"async",
-					"quark",
-					"_orderRelation",
-					"refreshRelation",
-					"async",
-					"_update",
-					"ctrl+m",
-					"async",
-					"_instance",
-					"_update",
-					"fire",
-					"_updatePrice",
-					"_update",
-					"fire",
-					"async",
-					"mask",
-					"submitOrder",
-					"submitOrder ",
-					"folderIdUpdated",
-					"folder",
-					"pageModel",
-					"publicMods",
-					"parentData",
-					"tmod",
-					"anonymous_1",
-					"_templateHelper",
-					"ifReady",
-					"Model",
-					"core",
-					"start",
-					"template",
-					"concurrent",
-					"demo",
-					"window",
-					"source",
-					"close",
-					"project",
-					"open",
-					"recent",
-					"super+.",
-					"super+e",
-					"show_panel",
-					"find_next",
-					" \"",
-					"super+e",
-					"this",
-					"cfg",
-					"super+g",
-					"super+e",
-					"alt+[",
-					"Address",
-					"ab",
-					"abde",
-					"ctrl+,",
-					"ctrl+shift+t",
-					"ctrl+shift+b",
-					"ctrl+shift+m",
-					"expand_selection",
-					"alt+enter",
-					"`",
-					"line",
-					"ctrl+1",
-					";\n",
-					"super",
-					"ctrl",
-					"ctrl+d",
-					"super+l",
-					"super+y",
-					"side_bar",
-					"super+left",
-					"fuzzy_path_complete",
-					"super+o",
-					"super+b",
-					"fav",
-					"open_file",
-					"oepn_file",
-					"side_bar",
-					"super",
-					"super\n",
-					"prompt_save_as",
-					"slurp_find_string",
-					"super+shift+f",
-					"super+a",
-					"read",
-					"app.buy.confirmOrder",
-					"rob",
-					"exclude",
-					"finder",
-					"_focus",
-					"removelogging",
-					"match",
-					"foreground",
-					"cfg"
+					"taobao"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -563,691 +605,17 @@
 	},
 	"windows":
 	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"ret",
-						"requestPage"
-					],
-					[
-						"co",
-						"counter"
-					],
-					[
-						"card",
-						"cardNum"
-					],
-					[
-						"ca",
-						"cardNum"
-					],
-					[
-						"req",
-						"requestPage"
-					],
-					[
-						"requ",
-						"request"
-					],
-					[
-						"ti",
-						"time"
-					],
-					[
-						"K",
-						"KISSY"
-					],
-					[
-						"debu",
-						"debugger"
-					],
-					[
-						"el",
-						"_elSelects"
-					],
-					[
-						"res",
-						"responder"
-					],
-					[
-						"tm",
-						"tmpFilePath"
-					],
-					[
-						"_ma",
-						"_matchByString"
-					],
-					[
-						"com",
-						"comboHandler"
-					],
-					[
-						"re",
-						"responder"
-					],
-					[
-						"file",
-						"filePath"
-					],
-					[
-						"ex",
-						"exist"
-					],
-					[
-						"or",
-						"originalPattern"
-					],
-					[
-						"mat",
-						"matchFn"
-					],
-					[
-						"fun",
-						"function"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/lab/huamingche/getlist.js",
-					"settings":
-					{
-						"buffer_size": 897,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/lab/huamingche/getdetail.js",
-					"settings":
-					{
-						"buffer_size": 1666,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 203.0,
-				"selected_items":
-				[
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Remove Package"
-					],
-					[
-						"prev",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"preview",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"pac",
-						"Package Control: List Packages"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Enable Package"
-					],
-					[
-						"boo",
-						"Bookmarks: Clear All"
-					],
-					[
-						"book",
-						"Bookmarks: Toggle"
-					],
-					[
-						"find",
-						"Find: In Project"
-					],
-					[
-						"FINDC",
-						"Find: In Current File"
-					],
-					[
-						"FIND",
-						"Find: In..."
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 601.0
-			},
-			"console":
-			{
-				"height": 129.0,
-				"history":
-				[
-					"ll"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/lab/huamingche"
-			],
-			"file_history":
-			[
-				"/lab/huamingche/package.json",
-				"/lab/huamingche/list/2.html",
-				"/Users/john/Library/Application Support/Sublime Text 3/Packages/JsFormat/Default (OSX).sublime-keymap",
-				"/Users/john/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/proxy/package.json",
-				"/gitlab/tm/buy/src/init.js",
-				"/gitlab/tm/buy/src/mod/address.js",
-				"/gitlab/tm/buy/src/app.js",
-				"/gitlab/tm/buy/src/util.js",
-				"/gitlab/tm/buy/src/data.js",
-				"/gitlab/tm/buy/src/mod/order.js",
-				"/gitlab/tm/buy/gulpfile.js",
-				"/gitlab/tm/buy/build/seed.js",
-				"/proxy/tbc:address:index-min.js",
-				"/gitlab/tm/buy/src/config.json",
-				"/Users/john/buy.sublime-project",
-				"/gitlab/tb/buy/mt/mods/terms/pc/index.js",
-				"/gitlab/tb/buy/mt/mods/terms/pc/eticket.js",
-				"/proxy/rule.config.js",
-				"/Users/john/.bash_profile",
-				"/Users/john/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/john/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/john/Work/文档/2014.09.25周报.md",
-				"/Users/john/Work/static/rule.config.js",
-				"/Users/john/Work/repos/nproxy/lib/log.js",
-				"/Users/john/Work/repos/nproxy/package.json",
-				"/Users/john/Work/repos/nproxy/rule.config.js",
-				"/Users/john/Work/repos/nproxy/start.js",
-				"/Users/john/Work/repos/nproxy/lib/nproxy.js",
-				"/Users/john/Work/static/rule.ini",
-				"/Users/john/Work/static/rule.list.ini",
-				"/Users/john/Work/repos/tb-buy/mt/core/render/tpl-engine/xtemplate.js",
-				"/Users/john/Work/repos/tm-buy/src/init.js",
-				"/Users/john/Work/repos/tm-buy/src/app.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/confirmOrder/pc/index.xtpl.html",
-				"/Users/john/Work/repos/tb-buy/mt/index.js",
-				"/Users/john/Work/repos/tb-buy/Gruntfile.js",
-				"/Users/john/Work/repos/tb-buy/build/mt/mods-dep.js",
-				"/Users/john/Work/repos/tb-buy/build/mt/core-min.js",
-				"/Users/john/Work/static/kissy-global.js",
-				"/Users/john/Work/repos/tm-buy/demo/index.html",
-				"/Users/john/Work/repos/tm-buy/gulpfile.js",
-				"/Users/john/Work/repos/tm-buy/README.md",
-				"/Users/john/Work/repos/tm-buy/README.html",
-				"/Users/john/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
-				"/Users/john/Work/repos/tm-buy/demo/package.json",
-				"/Users/john/Work/repos/tb-buy/mt/core/meta/factory.js",
-				"/Users/john/Work/repos/tb-buy/mt/core/render/sub-models/html-generator.js",
-				"/Users/john/Work/repos/tb-buy/mt/demo/pc.html",
-				"/Users/john/Work/repos/tb-buy/mt/core/index.js",
-				"/Users/john/Work/repos/tb-buy/mt/core/render/render.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/stepbar/pc/index.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/stepbar/pc/index.xtpl.html",
-				"/Users/john/Work/repos/tb-buy/mt/mods/confirmOrder/pc/index-xtpl.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/confirmOrder/pc/index.css",
-				"/Users/john/Work/repos/tb-buy/mt/core/render/data-structure/drawn-info.js",
-				"/Users/john/Work/repos/tb-buy/mt/demo/server.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/anyChannel/pc/index.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/seaFw/pc/index.js",
-				"/Users/john/Desktop/g.tbcdn.cn.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/address/pc/index.js",
-				"/Users/john/Work/repos/tb-buy/mt/mods/dsDesc/pc/index.js",
-				"/Users/john/Work/repos/rob/src/mode/linkage.js",
-				"/Users/john/Work/repos/rob/src/mode/instance.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/realPay/index.html",
-				"/Users/john/Work/repos/app-order-buy/src/mods/orderPay/index.html",
-				"/Users/john/Work/repos/rob/src/mode/README.md",
-				"/Users/john/Work/repos/app-order-buy/demo/data/mock.json",
-				"/Users/john/Work/repos/app-order-buy/demo/server.js",
-				"/Users/john/Work/repos/rob/json/mock_data.json",
-				"/Users/john/Work/repos/rob/src/mode/component.js",
-				"/Users/john/Work/repos/app-order-buy/json/mock.json",
-				"/Users/john/Work/repos/app-order-buy/src/mods/confirmOrder/index.html",
-				"/Users/john/Work/repos/alifolder-m/src/app.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/orderPay/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/realPay/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/terms/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/orderInfo/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/orderBond/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/invalidGroup/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/input/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/deliveryMethod/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/bridge/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/address/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/activity/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/page.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/submitOrder/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/confirmOrder/index.js",
-				"/Users/john/Work/repos/alifolder-m/index.html",
-				"/Users/john/Work/repos/alifolder-m/src/controllers/item/folder.js",
-				"/Users/john/Work/repos/alifolder-m/src/mediators/dataload.js",
-				"/Users/john/Work/repos/alifolder-m/src/pages/show.js",
-				"/Users/john/Work/repos/alifolder-m/src/mediators/route.js",
-				"/Users/john/Work/repos/alifolder-m/src/models/pagemodel.js",
-				"/Users/john/Work/repos/alifolder-m/src/mediators/singlerenderer.js",
-				"/Users/john/Work/repos/alifolder-m/src/controllers/panel/listpanel.js",
-				"/Users/john/Work/repos/alifolder-m/src/controllers/nav/nav.js",
-				"/Users/john/Work/repos/alifolder-m/src/mediators/render.js",
-				"/Users/john/Work/repos/alifolder-m/src/controllers/panel/panel.js",
-				"/Users/john/Work/repos/alifolder-m/src/models/client.js",
-				"/Users/john/Work/repos/alifolder-m/src/sdk/sdk-mobile.js",
-				"/Users/john/Work/repos/alifolder-m/src/base.js",
-				"/Users/john/Work/repos/rob/src/mode/hierarchy.js",
-				"/Users/john/Work/repos/rob/demo/data/mock.json",
-				"/Users/john/Work/repos/rob/src/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/tpl/.cache/confirmOrder/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/core/publicMods.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/toggle/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/buy.js",
-				"/Users/john/Work/repos/app-order-buy/src/core/render.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/toggle/index.html",
-				"/Users/john/Work/repos/app-order-buy/src/tpl/.cache/address/index.js",
-				"/Users/john/Work/repos/app-order-buy/src/tpl/$helpers.js",
-				"/Users/john/Work/repos/app-order-buy/Gruntfile.js",
-				"/Users/john/Work/repos/app-order-buy/src/tpl/template.js",
-				"/Users/john/Work/repos/app-order-buy/src/mods/package.json",
-				"/Users/john/Work/repos/app-order-buy/src/tpl/confirmOrder/index.js",
-				"/Users/john/Work/repos/app-order-buy/node_modules/grunt-shell/tasks/shell.js",
-				"/Users/john/Work/repos/app-order-buy/package.json",
-				"/Users/john/Work/repos/app-order-buy/node_modules/grunt-shell/package.json",
-				"/Users/john/Work/repos/app-order-buy/src/core/template.js",
-				"/Users/john/Work/repos/rob/README.md",
-				"/Users/john/Work/repos/app-order-buy/build/page.debug.js",
-				"/Users/john/Work/repos/app-order-buy/demo/index.html",
-				"/Users/john/Work/repos/app-order-buy/demo/cartApp.html",
-				"/Users/john/Work/repos/app-order-buy/demo/demo.html",
-				"/Users/john/Desktop/mtb.js",
-				"/Users/john/Work/repos/app-order-buy/build/buy.debug.js"
-			],
-			"find":
-			{
-				"height": 23.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					"/gitlab/tm/buy/src",
-					"/gitlab/cm/rob",
-					"/Users/john/Work/static/rule.config.js",
-					"/Users/john/Work/repos/tb-buy/mt/mods",
-					"/Users/john/Work/repos/rob/src",
-					"/Users/john/Work/repos/app-order-buy/src",
-					"/Users/john/Work/repos/rob/src",
-					"/Users/john/Work/repos/rob/src/mode",
-					"/Users/john/Work/repos/app-order-buy/src",
-					"/Users/john/Work/repos/alifolder-m/src",
-					"/Users/john/Work/repos/app-order-buy/src",
-					"/Users/john/Work/repos/app-order-buy",
-					"/Users/john/Work/repos/rob/src",
-					"/Users/john/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-					"/Users/john/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-					"/Users/john/Work/repos/rob/src/index.js",
-					"/Users/john/Work/repos/app-order-buy",
-					"/Users/john/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-					"/Users/john/.bash_profile",
-					"/Users/john/Work/repos/rob/adress2.js",
-					"/Users/john/Work/repos/rob/Gruntfile.js",
-					"/Users/john/Library/Application Support/Sublime Text 3/Packages/sublime-monokai-extended/Monokai Extended.tmTheme",
-					"/Users/john/Work/repos/rob/adress2.js",
-					"/Users/john/Library/Application Support/Sublime Text 3/Packages/sublime-monokai-extended/Monokai Extended Bright.tmTheme",
-					"/Users/john/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-					"/Users/john/Work/repos/rob/adress2.js",
-					"<current file>",
-					"<open files>",
-					"/Users/john/Work/repos/nproxy/lib",
-					"/Users/john/Library/Application Support/Sublime Text 3/Packages/sublime-monokai-extended",
-					"/Users/john/Work/repos/httpx"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"format",
-					"tbc/address/",
-					"全部地址",
-					"选择收货地址",
-					"全部地址",
-					"地址",
-					"record",
-					"tbc/address",
-					"Factory",
-					"/Users/john/Work/repos",
-					"/Users/john/Work/static",
-					"copy",
-					"xtpl",
-					"    ",
-					"debug",
-					"alt+m",
-					"demo",
-					"document.domain",
-					"p",
-					"document.domain",
-					"l",
-					"document.domain",
-					"taobao",
-					"z",
-					"taob",
-					"_ref",
-					"structure",
-					"_orderRelation",
-					"_updatePrice",
-					"deliveryMethod",
-					"deliveryMethor",
-					"delivery",
-					"randomId",
-					"deliveryMethod_b_19937842215",
-					"realpay",
-					"refreshRelation",
-					"async",
-					"quark",
-					"_orderRelation",
-					"refreshRelation",
-					"async",
-					"_update",
-					"ctrl+m",
-					"async",
-					"_instance",
-					"_update",
-					"fire",
-					"_updatePrice",
-					"_update",
-					"fire",
-					"async",
-					"mask",
-					"submitOrder",
-					"submitOrder ",
-					"folderIdUpdated",
-					"folder",
-					"pageModel",
-					"publicMods",
-					"parentData",
-					"tmod",
-					"anonymous_1",
-					"_templateHelper",
-					"ifReady",
-					"Model",
-					"core",
-					"start",
-					"template",
-					"concurrent",
-					"demo",
-					"window",
-					"source",
-					"close",
-					"project",
-					"open",
-					"recent",
-					"super+.",
-					"super+e",
-					"show_panel",
-					"find_next",
-					" \"",
-					"super+e",
-					"this",
-					"cfg",
-					"super+g",
-					"super+e",
-					"alt+[",
-					"Address",
-					"ab",
-					"abde",
-					"ctrl+,",
-					"ctrl+shift+t",
-					"ctrl+shift+b",
-					"ctrl+shift+m",
-					"expand_selection",
-					"alt+enter",
-					"`",
-					"line",
-					"ctrl+1",
-					";\n",
-					"super",
-					"ctrl",
-					"ctrl+d",
-					"super+l",
-					"super+y",
-					"side_bar",
-					"super+left",
-					"fuzzy_path_complete",
-					"super+o",
-					"super+b",
-					"fav",
-					"open_file",
-					"oepn_file",
-					"side_bar",
-					"super",
-					"super\n",
-					"prompt_save_as",
-					"slurp_find_string",
-					"super+shift+f",
-					"super+a",
-					"read",
-					"app.buy.confirmOrder",
-					"rob",
-					"exclude",
-					"finder",
-					"_focus",
-					"removelogging",
-					"match",
-					"foreground"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": true,
-				"replace_history":
-				[
-					"/gitlab",
-					"/proxy",
-					"\\t",
-					"meta",
-					"/",
-					""
-				],
-				"reverse": false,
-				"show_context": false,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/lab/huamingche"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/lab/huamingche/getlist.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 897,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										617,
-										617
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/lab/huamingche/getdetail.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1666,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										378,
-										378
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 23.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 100.0
-			},
-			"output.markdown":
-			{
-				"height": 98.0
-			},
-			"position": "0 0 63 1440 815 0 0 1440 878 ",
-			"project": "",
-			"replace":
-			{
-				"height": 72.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 321.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 79,
-			"workspace_name": ""
-		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/Users/john/buy.sublime-workspace"
+			"/Users/john/SublimeProjects/buy.sublime-workspace",
+			"/Users/john/SublimeProjects/proxy.sublime-workspace",
+			"/gitlab/tm/buy/src/data.sublime-workspace",
+			"/Users/john/SublimeProjects/cart.sublime-workspace",
+			"/Users/john/buy.sublime-workspace",
+			"/Users/john/proxy.sublime-workspace"
 		]
 	}
 }
