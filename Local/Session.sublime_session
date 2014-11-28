@@ -1,18 +1,70 @@
 {
 	"folder_history":
 	[
+		"/github/tianma",
+		"/github/nep-responder-buy",
+		"/github/nep-responder-asset",
+		"/github/nep-request",
+		"/github/nep-responder-web",
+		"/github/nep-responder-local",
+		"/proxy",
+		"/github/nproxy-plus",
+		"/github/nep",
+		"/github/ngroxy",
+		"/lab/gam-responder-buypage",
+		"/lab/ngroxy",
+		"/lab/ng-responder-local",
+		"/lab/ng-responder-asset",
+		"/lab/gam-responder-asset",
+		"/lab/gam-responder-local",
+		"/lab/gam",
+		"/usr/local/lib/node_modules/yo",
+		"/github/anproxy",
+		"/lab/decode",
+		"/gitlab/tm/buy",
+		"/gitlab/buy/demo",
+		"/lab/demo",
+		"/lab/test4",
+		"/gitlab/buy/upgrade-buy-tb",
+		"/lab/test1",
+		"/gitlab/cm/rob",
+		"/lab/test2",
+		"/gitlab/buy/grunt-buy-componentlist",
+		"/github/grunt-xtemplate",
+		"/lab/git_example",
+		"/gitlab/shop/tae-portal",
+		"/gitlab/cm/wiki.wiki/sz",
+		"/gitlab/buy/generator-buy",
+		"/gitlab/buy/tools/upgrade-buy-tb",
+		"/gitlab/buy/component-list",
+		"/proxy/rule",
+		"/lab/test",
+		"/lab/test-buy",
+		"/gitlab/buy/tools",
+		"/gitlab/tb/buy",
+		"/gitlab/buy/base",
+		"/lab/test-buy/node_modules/grunt-xtemplate",
+		"/lab/move-buy-css",
+		"/lab/move-buy-xtpl",
+		"/github/grunt-kmc",
+		"/lab/test-generator-buy",
+		"/gitlab/buy",
+		"/lab/seajs",
+		"/lab/modulex",
+		"/lab/generator-buy",
+		"/lab/grunt-xtemplate",
+		"/lab/grunt-kissy-xtemplate",
+		"/lab/component-list",
+		"/lab/buy",
+		"/gitlab/buy/tb-buy-upgrade",
 		"/lab/alinpm",
 		"/lab/undefined",
-		"/gitlab/buy/demo",
-		"/gitlab/cm/rob",
-		"/proxy",
 		"/gitlab/zinc.lx/buy-order-data",
 		"/gitlab/tm/buy-base",
 		"/gitlab/tm",
 		"/gitlab/cm/wiki",
 		"/gitlab/tm/buy-m",
 		"/gitlab/tm/buy-order-m",
-		"/github/nproxy-plus",
 		"/gitlab/tb/cart",
 		"/gitlab/mtb/app-order-buy",
 		"/gitlab/sj/alifolder-m",
@@ -21,8 +73,6 @@
 		"/proxy/node_modules/proxy-util",
 		"/gitlab/cm",
 		"/gitlab/tb",
-		"/gitlab/tm/buy",
-		"/gitlab/tb/buy",
 		"/Users/john/Work/repos/nproxy",
 		"/Users/john/Work/repos/tm-buy",
 		"/Users/john/Work/repos/tb-buy",
@@ -39,11 +89,11 @@
 		"/Users/john/Work/playground/git_example/js"
 	],
 	"last_version": 3065,
-	"last_window_id": 158,
+	"last_window_id": 292,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 793.0,
+		"new_window_height": 801.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -51,11 +101,243 @@
 				"selected_items":
 				[
 					[
-						"conf",
-						"confirmOrder"
+						"for",
+						"forward"
+					],
+					[
+						"make",
+						"makeWebGetter"
+					],
+					[
+						"get",
+						"getLocalPath"
+					],
+					[
+						"as",
+						"async"
+					],
+					[
+						"file",
+						"files"
+					],
+					[
+						"res",
+						"results"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"stat",
+						"statusCode"
+					],
+					[
+						"pro",
+						"proxyRes"
 					],
 					[
 						"con",
+						"constants"
+					],
+					[
+						"pat",
+						"pattern"
+					],
+					[
+						"rea",
+						"readFileSync"
+					],
+					[
+						"C",
+						"Content-Type"
+					],
+					[
+						"requ",
+						"request"
+					],
+					[
+						"re",
+						"responders"
+					],
+					[
+						"respo",
+						"responders"
+					],
+					[
+						"respon",
+						"responder"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"fn",
+						"function"
+					],
+					[
+						"co",
+						"config"
+					],
+					[
+						"ge",
+						"getLocalPath"
+					],
+					[
+						"inde",
+						"indexOf"
+					],
+					[
+						"nex",
+						"nextQ"
+					],
+					[
+						"chi",
+						"childDataContent"
+					],
+					[
+						"pkg",
+						"pkgname"
+					],
+					[
+						"pk",
+						"pkgname"
+					],
+					[
+						"p",
+						"packages"
+					],
+					[
+						"o",
+						"_options"
+					],
+					[
+						"pa",
+						"packages"
+					],
+					[
+						"i",
+						"identifier"
+					],
+					[
+						"root",
+						"rootData"
+					],
+					[
+						"rep",
+						"responder"
+					],
+					[
+						"fil",
+						"fileName"
+					],
+					[
+						"base",
+						"baseMods"
+					],
+					[
+						"whi",
+						"Whitelist"
+					],
+					[
+						"com",
+						"component"
+					],
+					[
+						"mod",
+						"modsFile"
+					],
+					[
+						"ind",
+						"indexFile"
+					],
+					[
+						"index",
+						"indexFile"
+					],
+					[
+						"in",
+						"indexFile"
+					],
+					[
+						"mo",
+						"modelPath"
+					],
+					[
+						"ma",
+						"matches"
+					],
+					[
+						"c",
+						"componentpath"
+					],
+					[
+						"tag",
+						"tagClass"
+					],
+					[
+						"ta",
+						"tagClass"
+					],
+					[
+						"han",
+						"handleUpIf"
+					],
+					[
+						"ha",
+						"handleIf"
+					],
+					[
+						"fi",
+						"fields"
+					],
+					[
+						"xt",
+						"xtemplate"
+					],
+					[
+						"tm",
+						"template"
+					],
+					[
+						"mods",
+						"modspath"
+					],
+					[
+						"up",
+						"upgradefromtaobao"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"val",
+						"validate"
+					],
+					[
+						"ren",
+						"renderFileSuffix"
+					],
+					[
+						"wra",
+						"wrapperFileSuffix"
+					],
+					[
+						"util",
+						"utility"
+					],
+					[
+						"tar",
+						"targetName"
+					],
+					[
+						"op",
+						"operator"
+					],
+					[
+						"conf",
 						"confirmOrder"
 					],
 					[
@@ -79,32 +361,12 @@
 						"_elSelects"
 					],
 					[
-						"res",
-						"responder"
-					],
-					[
-						"tm",
-						"tmpFilePath"
-					],
-					[
 						"_ma",
 						"_matchByString"
 					],
 					[
-						"com",
-						"comboHandler"
-					],
-					[
-						"re",
-						"responder"
-					],
-					[
 						"req",
 						"require"
-					],
-					[
-						"file",
-						"filePath"
 					],
 					[
 						"ex",
@@ -127,16 +389,44 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 203.0,
+				"height": 237.0,
 				"selected_items":
 				[
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
 					[
 						"insta",
 						"Package Control: Install Package"
 					],
 					[
-						"package",
-						"Package Control: Remove Package"
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: Install Package"
+					],
+					[
+						"packagec",
+						"Package Control: Install Package"
 					],
 					[
 						"prev",
@@ -177,10 +467,6 @@
 					[
 						"FIND",
 						"Find: In..."
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
 					]
 				],
 				"width": 601.0
@@ -204,134 +490,134 @@
 			},
 			"file_history":
 			[
-				"/lab/undefined/index.js",
-				"/lab/undefined/package.json",
-				"/lab/alinpm/package.json",
-				"/gitlab/buy/demo/build/index.html",
-				"/gitlab/buy/demo/gulpfile.js",
-				"/gitlab/buy/demo/build/base/xtpl-ext/view.js",
-				"/gitlab/buy/demo/build/base/engine.js",
-				"/gitlab/buy/demo/build/base/model.js",
-				"/gitlab/buy/demo/build/base/view.js",
-				"/gitlab/buy/demo/build/app.js",
-				"/gitlab/buy/demo/build/base/event-ext/listento.js",
-				"/Users/john/.bash_profile",
-				"/Users/john/.gitconfig",
-				"/gitlab/tm/buy/src/mod/order.js",
-				"/gitlab/tm/buy/src/data.js",
-				"/gitlab/tm/buy/src/mod/address.js",
-				"/gitlab/tm/buy/src/mod/point.js",
-				"/gitlab/tm/buy/src/mod/addrService.js",
-				"/gitlab/tm/buy/src/mod/quantity.js",
-				"/gitlab/tm/buy/src/mod/service.js",
-				"/gitlab/tm/buy/src/mod/addrUpdate.js",
+				"/github/nep/package.json",
+				"/github/nep/test/config.js",
+				"/github/nep/lib/middleware/respond.js",
+				"/github/nep/bin/nep",
+				"/github/nep/lib/util/net.js",
+				"/github/nep-responder-buy/index.js",
+				"/github/nep-responder-buy/package.json",
+				"/github/nep-responder-asset/index.js",
+				"/github/nep-request/index.js",
+				"/Users/john/SublimeProjects/nep.sublime-project",
+				"/github/nep/lib/middleware/forward.js",
+				"/proxy/rule/rule.demo.js",
+				"/proxy/rule/rule.taobao.buy.js",
+				"/github/nep/test/res/tpl.html",
+				"/proxy/asset.js",
+				"/github/nep-responder-local/index.js",
+				"/github/nep-responder-web/index.js",
+				"/github/nep/lib/middleware/fixurl.js",
+				"/github/nep-responder-asset/package.json",
+				"/github/nproxy-plus/lib/utils.js",
+				"/github/nep/test/res/a.js",
+				"/github/nep-request/package.json",
+				"/github/nproxy-plus/lib/middlewares/responders/web.js",
+				"/github/nep-responder-web/package.json",
+				"/github/nep/lib/server.js",
+				"/github/nep/test/res/a/a.js",
+				"/github/nproxy-plus/lib/middlewares/responders/combo.js",
+				"/github/nproxy-plus/lib/middlewares/responders/local.js",
+				"/proxy/rule/rule.test.js",
+				"/github/nep-responder-local/package.json",
+				"/github/nproxy-plus/package.json",
+				"/github/nep/lib/middleware/index.js",
+				"/github/nproxy-plus/Makefile",
+				"/github/nproxy-plus/lib/middlewares/responders/kissy-combo.js",
+				"/github/nproxy-plus/lib/transformers/local.js",
+				"/github/nproxy-plus/lib/transformers/kissy.js",
+				"/github/nproxy-plus/lib/transformers/fetch.js",
+				"/github/nproxy-plus/node_modules/combo-handler/index.js",
+				"/github/nproxy-plus/lib/transformers/concat.js",
+				"/github/nproxy-plus/lib/middlewares/responders/concat.js",
+				"/github/nproxy-plus/lib/middlewares/forward.js",
+				"/github/nproxy-plus/bin/nproxy",
+				"/lab/decode/b.js",
+				"/lab/decode/a.js",
+				"/github/nproxy-plus/test/forward.js",
+				"/github/nproxy-plus/TODO.md",
+				"/gitlab/buy/generator-buy/node_modules/yeoman-generator/package.json",
+				"/gitlab/buy/generator-buy/node_modules/yeoman-generator/lib/actions/actions.js",
+				"/lab/decode/g.js",
+				"/Users/john/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/github/nproxy-plus/lib/middlewares/index.js",
+				"/github/nproxy-plus/lib/log.js",
+				"/Users/john/Downloads/下载 (1)",
+				"/lab/decode/c.js",
+				"/gitlab/tb/buy/mt/demo/data/mock-pc.json",
+				"/github/nproxy-plus/node_modules/express/package.json",
+				"/proxy/package.json",
+				"/proxy/node_modules/iconv-lite/lib/extend-node.js",
+				"/proxy/node_modules/iconv-lite/lib/index.js",
+				"/github/nproxy-plus/lib/nproxy.js",
+				"/proxy/config.js",
+				"/gitlab/buy/demo/mock/data.js",
+				"/gitlab/buy/demo/build/demo/data.js",
+				"/gitlab/sea/buy/Gruntfile.js",
+				"/gitlab/buy/upgrade-buy-tb/lib/replace.js",
+				"/gitlab/buy/upgrade-buy-tb/package.json",
+				"/gitlab/buy/generator-buy/generators/app/index.js",
+				"/gitlab/buy/generator-buy/generators/upgrade/index.js",
+				"/gitlab/tb/buy/mt/core/render/sub-models/html-generator.js",
 				"/gitlab/tb/buy/mt/core/index.js",
 				"/gitlab/tb/buy/mt/core/render/render.js",
-				"/gitlab/tb/buy/mt/mods/deliveryMethod/pc/index.js",
-				"/gitlab/tb/buy/mt/mods/deliveryMethod/pc/addrupdate.xtpl.html",
-				"/gitlab/tb/buy/mt/mods/deliveryMethod/pc/calendar.xtpl.html",
-				"/gitlab/tb/buy/mt/mods/deliveryMethod/pc/index.xtpl.html",
 				"/gitlab/tb/buy/mt/core/render/tpl-engine/xtemplate.js",
-				"/gitlab/tm/buy/src/mod/addrMaker.css",
-				"/gitlab/tm/buy/src/mod/agencyPay.js",
-				"/gitlab/tm/buy/src/mod/addrOption.js",
-				"/gitlab/tm/buy/src/mod/postage.js",
-				"/gitlab/tb/buy/mt/mods/address/pc/index.js",
-				"/gitlab/tb/buy/mt/mods/agencyPay/pc/index-xtpl.js",
-				"/gitlab/tb/buy/mt/mods/agencyPay/pc/index.js",
-				"/gitlab/tb/buy/Gruntfile.js",
-				"/gitlab/tb/buy/mt/whitelist.js",
-				"/gitlab/tb/buy/mt/tasks/outputMods.js",
-				"/gitlab/tb/buy/mt/mods/agencyPay/pc/index.xtpl.html",
-				"/gitlab/tb/buy/mt/mods/activity/pc/chooseGift.xtpl.html",
-				"/gitlab/tb/buy/mt/core/render/sub-models/html-generator.js",
-				"/gitlab/tb/buy/mt/index.js",
-				"/gitlab/tb/buy/mt/core/public.js",
-				"/gitlab/tb/buy/mt/tasks/createMod.js",
-				"/gitlab/tb/buy/mt/mods/dsDesc/pc/index.js",
-				"/gitlab/tb/buy/build/mt/mods-dep.js",
-				"/gitlab/tb/buy/mt/mods/activity/pc/chooseGift-xtpl.js",
-				"/gitlab/tm/buy/src/app.js",
-				"/gitlab/tm/buy-m/src/init.js",
-				"/gitlab/tm/buy-m/src/app.js",
-				"/gitlab/tm/buy-m/src/data.js",
-				"/gitlab/tm/buy-m/src/mod/address.js",
-				"/gitlab/tm/buy-m/src/mio.js",
-				"/gitlab/tm/buy-order-m/build/seed.js",
-				"/gitlab/tm/buy-order-m/build/aio.js",
-				"/gitlab/tm/buy-order-m/src/model.js",
-				"/gitlab/tm/buy-order-m/src/init.js",
-				"/gitlab/tm/buy-order-m/src/render/order.js",
-				"/gitlab/tm/buy-order-m/src/biz/addr.js",
-				"/gitlab/tm/buy/src/init.js",
-				"/gitlab/tb/buy/mt/core/meta/polymorphism/linkage-layer/default-linkage-layer.js",
-				"/gitlab/tb/buy/mt/core/meta/data-structure/linkage-init-args.js",
-				"/gitlab/tb/buy/mt/core/async/async.js",
-				"/gitlab/tb/buy/mt/core/meta/data-structure/async-response-data.js",
-				"/gitlab/tm/buy/src/mod/go.js",
-				"/gitlab/tm/buy/src/mod/checkCode.js",
-				"/gitlab/tm/buy/src/mod/invalid.js",
-				"/gitlab/tm/buy/src/config.json",
-				"/gitlab/tm/buy/src/mod/userAuth.js",
-				"/gitlab/tb/buy/mt/core/loader/sub-models/folder-structure.js",
-				"/gitlab/tb/buy/mt/core/loader/data-structure/request-methods.js",
-				"/gitlab/tb/buy/mt/mods/deliveryGuide/pc/index.js",
-				"/gitlab/tb/buy/node_modules/kissy/bin/kissy-xtemplate.js",
-				"/gitlab/tm/buy/src/mod/misc.js",
-				"/gitlab/tm/buy/src/mod/stepbar.js",
-				"/gitlab/tb/buy/mt/demo/data/mock-pc.json",
-				"/Users/john/Desktop/mock_data.json",
-				"/gitlab/tb/buy/mt/mods/address/pc/index.xtpl.html",
-				"/gitlab/tb/buy/mt/mods/confirmOrder/pc/index-xtpl.js",
-				"/gitlab/tm/buy/src/mod/authyao.js",
-				"/gitlab/tm/buy/src/mod/memo.js",
-				"/gitlab/tm/buy/src/mod/addrMaker.js",
-				"/gitlab/tm/buy/src/seed.js",
-				"/Users/john/Desktop/seed.js",
-				"/gitlab/mtb/app-order-buy/src/mods/itemPay/index.js",
-				"/gitlab/mtb/app-order-buy/src/mods/multiSelect/index.js",
-				"/gitlab/mtb/app-order-buy/src/tpl/confirmOrder/index.js",
-				"/gitlab/mtb/app-order-buy/src/mods/order/index.js",
-				"/gitlab/mtb/app-order-buy/src/mods/deliveryMethod/index.js",
-				"/gitlab/mtb/app-order-buy/src/mods/confirmOrder/index.js",
+				"/gitlab/tb/buy/mt/mods/tips/pc/index.xtpl.html",
+				"/gitlab/buy/demo/build/mods.js",
+				"/gitlab/buy/generator-buy/generators/upgrade/basemap.json",
+				"/gitlab/buy/demo/src/component/eticketDesc/index.js",
+				"/gitlab/buy/demo/src/component/eticketDesc/template.xtpl",
+				"/gitlab/buy/demo/src/component/eticketDesc/style.css",
+				"/gitlab/tb/buy/mt/mods/tips/pc/bottom.xtpl.html",
+				"/gitlab/tb/buy/mt/mods/tips/pc/overConfirmOrder.xtpl.html",
+				"/gitlab/tb/buy/mt/mods/tips/pc/index.js",
+				"/gitlab/tb/buy/mt/mods/tips/pc/bottom-xtpl.js",
+				"/gitlab/tb/buy/mt/mods/tips/pc/index-xtpl.js",
+				"/gitlab/tb/buy/mt/base/datePicker/index.js",
 				"/gitlab/tb/buy/mt/mods/address/pc/index-xtpl.js",
-				"/gitlab/tb/buy/mt/mods/itemPay/pc/index.xtpl.html",
-				"/gitlab/mtb/app-order-buy/src/mods/confirmOrder/index.html",
-				"/gitlab/mtb/app-order-buy/src/core/render.js",
-				"/gitlab/tb/buy/mt/core/loader/loader.js",
-				"/gitlab/mtb/app-order-buy/src/page.js",
-				"/gitlab/mtb/app-order-buy/src/buy.js",
-				"/gitlab/tb/buy/mt/mods/address/pc/bottom.xtpl.html",
-				"/gitlab/mtb/app-order-buy/src/core/template.js",
-				"/gitlab/mtb/app-order-buy/src/core/publicMods.js",
-				"/gitlab/tm/buy/src/mod/serviceAddress.js",
-				"/gitlab/tb/buy/mt/core/meta/utility/meta-helper.js",
-				"/gitlab/tm/buy/src/mod/realPay.js",
-				"/gitlab/tm/buy/less/inc/address.less",
-				"/gitlab/tm/buy/less/aio.less",
-				"/gitlab/tm/buy/font/iconfont.ttf",
-				"/gitlab/tm/buy/font/iconfont.svg",
-				"/gitlab/tm/buy/doc/serviceAddress.md",
-				"/gitlab/tm/buy/doc/postage.md",
-				"/gitlab/tm/buy/doc/address.md",
-				"/gitlab/tb/buy/mt/mods/checkCode/pc/index.js",
-				"/gitlab/tb/buy/mt/core/meta/sub-models/component.js",
-				"/gitlab/tb/buy/mt/base/table/index.css",
-				"/gitlab/tb/buy/mt/widgets/errpopup.js",
-				"/gitlab/tb/buy/mt/core/render/data-structure/drawn-info.js",
-				"/gitlab/tb/buy/mt/core/render/data-structure/refer-info.js",
-				"/gitlab/tb/buy/mt/core/render/data-structure/link-info.js",
-				"/gitlab/tb/buy/mt/mods/promotion/pc/index.js",
-				"/gitlab/tb/buy/mt/widgets/mag.js",
-				"/gitlab/tb/buy/mt/widgets/loading.js",
-				"/gitlab/tb/buy/mt/widgets/icotip.js",
-				"/gitlab/tb/buy/mt/core/meta/data-structure/runtime-fields.js",
-				"/gitlab/tb/buy/mt/core/meta/sub-models/linkage.js",
-				"/gitlab/tb/buy/mt/core/meta/sub-models/instance.js",
-				"/gitlab/tb/buy/mt/core/meta/sub-models/device.js",
-				"/gitlab/tb/buy/mt/core/meta/polymorphism/default-meta.js",
-				"/gitlab/tb/buy/mt/core/meta/polymorphism/meta-layer/default-meta-layer.js",
-				"/gitlab/tb/buy/mt/core/meta/polymorphism/instance-layer/default-instance-layer.js"
+				"/gitlab/tb/buy/mt/base/input/index.js",
+				"/gitlab/buy/demo/src/component/item/template.xtpl",
+				"/gitlab/tb/buy/mt/mods/item/pc/index.xtpl.html",
+				"/gitlab/buy/base/src/base/view.js",
+				"/gitlab/buy/base/src/base/model.js",
+				"/gitlab/buy/demo/demo/index.html",
+				"/gitlab/buy/demo/src/component/confirmOrder/template.xtpl",
+				"/gitlab/buy/demo/src/component/stepbar/template.xtpl",
+				"/gitlab/buy/demo/src/component/address/template.xtpl",
+				"/gitlab/buy/demo/src/component/confirmOrder/template-xtpl.js",
+				"/gitlab/buy/base/src/base/xtpl-ext/view.js",
+				"/gitlab/buy/demo/src/app.js",
+				"/gitlab/buy/base/src/base/renderer.js",
+				"/gitlab/buy/base/src/base/order-data.js",
+				"/gitlab/buy/upgrade-buy-tb/ref/count.json",
+				"/gitlab/tb/buy/mt/mods/dsDesc/pc/index.js",
+				"/lab/test1/src/component/activity/index.js",
+				"/proxy/file/combo2.js",
+				"/proxy/file/combo.js",
+				"/lab/test1/src/component/dsDesc/template.xtpl",
+				"/gitlab/buy/base/src/base/loader.js",
+				"/gitlab/buy/base/src/base/agent.js",
+				"/gitlab/buy/base/src/base/components.js",
+				"/gitlab/buy/demo/build/component/activity/index.js",
+				"/gitlab/buy/demo/build/demo/index.html",
+				"/gitlab/buy/base/build/base/view.js",
+				"/gitlab/buy/base/build/base/xtpl-ext/view.js",
+				"/gitlab/buy/base/build/mods.js",
+				"/gitlab/buy/base/build/base/engine.js",
+				"/gitlab/buy/base/src/base/engine.js",
+				"/gitlab/buy/base/Gruntfile.js",
+				"/gitlab/buy/base/package.json",
+				"/lab/test1/src/app.js",
+				"/lab/test1/src/component/address/view.js",
+				"/lab/test1/src/component/activity/view.js",
+				"/gitlab/buy/upgrade-buy-tb/count.json",
+				"/gitlab/buy/upgrade-buy-tb/lib/subview.txt",
+				"/gitlab/buy/upgrade-buy-tb/test/output.txt",
+				"/lab/test1/src/component/orderGroup/style.css",
+				"/gitlab/buy/upgrade-buy-tb/lib/fields.json",
+				"/gitlab/buy/upgrade-buy-tb/lib/tag.js",
+				"/lab/test1/src/component/address/template.xtpl",
+				"/lab/test1/src/component/stepbar/template.xtpl"
 			],
 			"find":
 			{
@@ -342,6 +628,61 @@
 				"height": 93.0,
 				"where_history":
 				[
+					"/github/nep/lib",
+					"/github/nep",
+					"/github/nproxy-plus",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/buy/demo/src",
+					"/gitlab/buy/demo/src/component",
+					"/gitlab/buy/demo/src",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/buy/demo/src/component",
+					"/gitlab/buy/demo/src",
+					"/gitlab/buy/demo/src/component",
+					"/gitlab/buy/demo/src",
+					"/gitlab/buy/base/src",
+					"/gitlab/buy/demo/src/component",
+					"/gitlab/buy/demo/src",
+					"/gitlab/buy/demo/src/component",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/buy/base/src/base",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy",
+					"/gitlab/tb/buy/mt/mods",
+					"/lab/test1/src/component",
+					"/gitlab/tb/buy/mt/core",
+					"/lab/test1/src/component",
+					"/gitlab/tb/buy/mt/core",
+					"/gitlab/buy/base/src/base",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/buy/generator-buy/node_modules/yeoman-generator/lib",
+					"/gitlab/buy/generator-buy/node_modules/yeoman-generator/lib/actions",
+					"/gitlab/buy/generator-buy/node_modules/yeoman-generator",
+					"/gitlab/buy/generator-buy/node_modules/yeoman-generator/lib/actions/actions.js",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/buy/base/src",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt/core",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt/core",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/buy/demo/build",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/buy/demo/build",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy",
+					"/gitlab/tb/buy/mt/core/meta",
+					"/gitlab/buy/demo/build",
+					"/gitlab/buy/demo/build/component",
 					"/gitlab/tm/buy/src/mod",
 					"/gitlab/tm/buy/src",
 					"/gitlab/tm/buy/src/mod",
@@ -397,141 +738,142 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"devel",
-					"function",
-					"git",
-					"lazy",
-					"mutex",
-					"mutes",
-					"mutex",
-					"mutes",
-					"Data.parent",
-					"mutex",
-					"mu'te'x",
-					"engine",
-					"engin",
-					"a's'y'n'c",
-					"tasks",
-					"toOrderCore",
+					"util/net",
+					"console",
+					"conso",
+					"log.error",
+					"length",
+					"header",
 					"async",
-					"selectAddr",
-					"Data",
-					"response",
-					"Data.async",
-					"async",
-					"a's'y'n'c",
-					"loadMods",
-					"counter",
-					"walk",
-					"merge",
-					"list2Map",
-					"Data.read",
-					"Data.all",
-					"async",
-					"a's'y'n'c",
-					"list2Map",
-					"useMod",
-					"tplTemplate",
-					"buy-base",
-					"stepbar",
-					"link",
-					"reload",
-					"Address",
-					"selectAddress",
-					"getModFullName",
-					"itemPay",
-					"definedPopup",
-					"payChange",
-					"includeChild",
-					"baseComponents",
-					"BASE_COM",
-					"BASE_",
-					"BASE-",
-					"calculate",
-					"payChange",
-					"datePicker",
-					"_addListener",
-					"mutex",
-					"validator",
-					"globalValidate",
-					"base/datePicker",
-					"base/input",
-					"errpopup",
-					"default-meta",
-					"default-instance-layer",
-					"getOriginalConfig",
-					"getErrorMsg",
-					"^.*$",
-					"getChildFromLinkInfo",
+					"net.request",
+					"log",
+					"lookup",
+					"processUrl",
+					"process",
+					"processUrl",
+					"writeFileStream",
+					"writeFileS",
+					"file",
+					"pattern",
+					"gam",
+					"ngroxy",
+					"fixResponder",
+					"typeof",
+					"request",
+					"requestOptions",
+					"callback",
+					"requestUrl",
+					"parsedUrl",
+					"request",
+					"requestHandler",
+					"callback",
+					"mime",
+					"globalAgent",
+					"processUrl",
+					"INTERNAL_HTTPS_PORT",
+					"_matchByRegx",
+					"fixResponder",
+					"httpRxg",
+					"imgRxg",
+					"proxyHttps",
+					"https",
+					"encoding",
+					"en'co'ding",
+					"confirm_order",
+					"setCharset",
+					"send",
+					"setHeader",
+					"end",
+					"res.send",
+					"utf-8",
+					"terms_1",
+					"linkbase",
+					"genHtmlFromComponent",
+					"callByRuntimeLink",
 					"linkChild",
 					"link",
-					"siblingData",
+					"mt/component/base",
+					"debu",
+					"type\": \"",
+					"type\" :",
+					"type :",
+					"children",
 					"childData",
+					"hasChildren",
+					"__",
+					"childern",
+					"getOrSet",
+					"root",
+					"createScope",
 					"rootData",
-					"56.89",
-					"orderPay",
-					"itemPay",
-					"fieldsGetter",
-					"filedsGetter",
-					"change",
-					"chang'e",
-					"MakePoint",
-					"eticketDesc_2000034188797",
-					"tick",
-					"入园时间",
-					"J_CheckIn",
-					"J_selectDate",
-					"fn",
-					"J_selectDate",
-					"CalendarTPL",
+					"__",
+					"__view",
+					"__model",
+					"address_1",
+					"confirmOrder_1",
+					"stepbar_1",
+					"stepbar",
+					"confirmOrder_1",
+					"childData",
+					"Ids.map",
+					".map",
+					"Engine",
+					"getRealComponentName",
+					"buildPath",
+					"debugger",
+					"48300",
+					"initpage",
+					"overConfirmOrder",
+					"tips_2",
+					"notice-area-content",
+					"msgBox",
+					"J-msg",
+					"style-normal-bold-grey",
+					"icon.css",
+					"icon",
+					"item_1_2_1",
+					"itemInfo_1_2_1_1",
+					"已无其他赠品可选择",
+					"itemInfo_1_2_1_1",
+					"全球",
+					"activity_1",
+					"itemInfo_2000100210656",
+					"女装",
+					"..",
+					"eticketDesc",
+					"c2c-extraInfo-container",
+					"promo-extraInfo",
+					"item_2100505763366",
+					"order_b_18030792130",
+					"item_2100505763366",
+					"order_b_18030792130",
+					"subview",
+					"orderGroup_1",
+					"confirmOrder",
+					"confirm",
+					"orderInfo_171",
+					"orderBond_1",
+					"confirmOrder_1",
+					"root.",
+					"break",
+					"combo",
+					"address",
+					"selectedId",
+					"selectId",
+					"debugger",
+					"debuggr",
+					"5858",
 					"datePicker",
-					"Slide",
-					"debugger",
-					"orderd",
-					"fromCart",
-					"^.*$",
-					"globalV",
-					"change",
-					"del",
-					"addr",
-					"deli",
-					"addr",
-					"click",
-					"core",
-					"debugger",
-					"Data",
-					"useMod",
-					"Order",
-					"event",
-					"on",
-					"parseGroup",
-					"initOne",
-					"biz",
-					"bi'z",
-					"linkpage",
-					"link'pa'ge",
-					"Factory",
-					"/Users/john/Work/repos",
-					"/Users/john/Work/static",
-					"copy",
-					"xtpl",
-					"    ",
-					"debug",
-					"alt+m",
-					"demo",
-					"document.domain",
-					"p",
-					"document.domain",
-					"l",
-					"document.domain",
-					"taobao"
+					"dateP",
+					"stepPay_1"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
+					"root.fields.",
 					"/gitlab",
 					"/proxy",
 					"\\t",
@@ -564,7 +906,7 @@
 			},
 			"replace":
 			{
-				"height": 42.0
+				"height": 72.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -610,6 +952,8 @@
 	{
 		"recent_workspaces":
 		[
+			"/Users/john/SublimeProjects/nep.sublime-workspace",
+			"/Users/john/SublimeProjects/buymisc.sublime-workspace",
 			"/Users/john/SublimeProjects/buy.sublime-workspace",
 			"/Users/john/SublimeProjects/proxy.sublime-workspace",
 			"/gitlab/tm/buy/src/data.sublime-workspace",
