@@ -1,12 +1,23 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
 		"ApplySyntax",
+		"AutoFileName",
 		"BetterFindBuffer",
 		"Codecs33",
 		"ColorPicker",
 		"ConvertToUTF8",
+		"DocBlockr",
 		"Find++",
 		"FindSelected",
 		"Fizzy Theme",
@@ -14,8 +25,11 @@
 		"GitGutter",
 		"INI",
 		"JsFormat",
+		"LESS",
 		"Markdown Preview",
 		"Monokai Extended",
+		"Package Control",
+		"Sass",
 		"Theme - El Capitan",
 		"Theme - Spacegray",
 		"Xtemplate"

@@ -1,5 +1,5 @@
 {
-	"always_prompt_for_file_reload": true,
+	"always_prompt_for_file_reload": false,
 	"always_show_minimap_viewport": true,
 	"auto_complete_selector": "source, meta.tag - punctuation.definition.tag.begin",
 	"auto_find_in_selection": true,
@@ -70,7 +70,7 @@
 	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
-	"use_simple_full_screen": true,
+	"use_simple_full_screen": false,
 	"use_tab_stops": true,
 	"word_wrap": false
 }

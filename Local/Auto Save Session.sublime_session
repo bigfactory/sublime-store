@@ -1,13 +1,32 @@
 {
 	"folder_history":
 	[
+		"/gitlab/mtb/app-order-buy",
+		"/gitlab/mtb/app-cart-buy",
+		"/gitlab/cm/m-microsell",
+		"/github/textarea-autosize/src",
+		"/gitlab/kimi/project-sample",
+		"/Users/john/Downloads/ux_1420532926_8510504",
+		"/Users/john/Downloads/ux_1420531446_5162494",
+		"/gitlab/tm/buy-base-m",
+		"/github/google-url-shortener",
+		"/gitlab/tm/buy-cart-m",
+		"/github",
+		"/gitlab/cm/tradeopen",
+		"/gitlab/mtb/app-cart",
+		"/nep",
+		"/github/webpackLibExample",
+		"/lab/test2",
+		"/github/nep-responder-asset",
+		"/gitlab/kg/calendar",
+		"/gitlab/kg/slide",
+		"/lab/test",
 		"/github/nep-router-web",
 		"/github/nep-router-local",
 		"/github/nproxy-plus",
 		"/github/nep-responder-mix",
 		"/github/tianma",
 		"/github/nep-responder-buy",
-		"/github/nep-responder-asset",
 		"/github/nep-request",
 		"/github/nep-responder-web",
 		"/github/nep-responder-local",
@@ -31,7 +50,6 @@
 		"/gitlab/buy/upgrade-buy-tb",
 		"/lab/test1",
 		"/gitlab/cm/rob",
-		"/lab/test2",
 		"/gitlab/buy/grunt-buy-componentlist",
 		"/github/grunt-xtemplate",
 		"/lab/git_example",
@@ -41,7 +59,6 @@
 		"/gitlab/buy/tools/upgrade-buy-tb",
 		"/gitlab/buy/component-list",
 		"/proxy/rule",
-		"/lab/test",
 		"/lab/test-buy",
 		"/gitlab/buy/tools",
 		"/gitlab/tb/buy",
@@ -69,7 +86,6 @@
 		"/gitlab/tm/buy-m",
 		"/gitlab/tm/buy-order-m",
 		"/gitlab/tb/cart",
-		"/gitlab/mtb/app-order-buy",
 		"/gitlab/sj/alifolder-m",
 		"/usr/local/lib/node_modules/nproxy-plus",
 		"/lab/huamingche",
@@ -92,17 +108,45 @@
 		"/Users/john/Work/playground/git_example/js"
 	],
 	"last_version": 3065,
-	"last_window_id": 294,
+	"last_window_id": 389,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 801.0,
+		"new_window_height": 855.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"host",
+						"hostname"
+					],
+					[
+						"par",
+						"parsedUrl"
+					],
+					[
+						"res",
+						"respond"
+					],
+					[
+						"log",
+						"logMatchResult"
+					],
+					[
+						"nep-r",
+						"nep-router-local"
+					],
+					[
+						"r",
+						"router"
+					],
+					[
+						"rs",
+						"responder"
+					],
 					[
 						"for",
 						"forward"
@@ -122,10 +166,6 @@
 					[
 						"file",
 						"files"
-					],
-					[
-						"res",
-						"results"
 					],
 					[
 						"proto",
@@ -493,31 +533,46 @@
 			},
 			"file_history":
 			[
+				"/github/nep/lib/util/color.js",
 				"/github/nep/package.json",
-				"/github/nep/test/config.js",
+				"/github/nep/lib/server.js",
 				"/github/nep/lib/middleware/respond.js",
+				"/github/nep/lib/middleware/fixurl.js",
+				"/github/nep/lib/middleware/forward.js",
 				"/github/nep/bin/nep",
+				"/github/nep-responder-asset/package.json",
+				"/github/nep/test/config.js",
+				"/github/nep-responder-asset/index.js",
+				"/gitlab/buy/generator-buy/generators/upgrade/basemap.json",
+				"/github/nproxy-plus/lib/transformers/concat.js",
+				"/github/nep-router-web/index.js",
+				"/github/nep-router-web/package.json",
+				"/github/nep-router-local/index.js",
+				"/github/nep-router-local/package.json",
+				"/github/nproxy-plus/lib/nproxy.js",
+				"/github/nep-responder-mix/package.json",
+				"/github/nproxy-plus/lib/transformers/local.js",
+				"/github/nep/index.js",
+				"/github/nep-responder-mix/lib/util.js",
+				"/github/nep-responder-mix/index.js",
+				"/github/nep-responder-web/index.js",
+				"/github/nep/lib/util/env.js",
+				"/github/nep/README.md",
 				"/github/nep/lib/util/net.js",
 				"/github/nep-responder-buy/index.js",
 				"/github/nep-responder-buy/package.json",
-				"/github/nep-responder-asset/index.js",
 				"/github/nep-request/index.js",
 				"/Users/john/SublimeProjects/nep.sublime-project",
-				"/github/nep/lib/middleware/forward.js",
 				"/proxy/rule/rule.demo.js",
 				"/proxy/rule/rule.taobao.buy.js",
 				"/github/nep/test/res/tpl.html",
 				"/proxy/asset.js",
 				"/github/nep-responder-local/index.js",
-				"/github/nep-responder-web/index.js",
-				"/github/nep/lib/middleware/fixurl.js",
-				"/github/nep-responder-asset/package.json",
 				"/github/nproxy-plus/lib/utils.js",
 				"/github/nep/test/res/a.js",
 				"/github/nep-request/package.json",
 				"/github/nproxy-plus/lib/middlewares/responders/web.js",
 				"/github/nep-responder-web/package.json",
-				"/github/nep/lib/server.js",
 				"/github/nep/test/res/a/a.js",
 				"/github/nproxy-plus/lib/middlewares/responders/combo.js",
 				"/github/nproxy-plus/lib/middlewares/responders/local.js",
@@ -527,11 +582,9 @@
 				"/github/nep/lib/middleware/index.js",
 				"/github/nproxy-plus/Makefile",
 				"/github/nproxy-plus/lib/middlewares/responders/kissy-combo.js",
-				"/github/nproxy-plus/lib/transformers/local.js",
 				"/github/nproxy-plus/lib/transformers/kissy.js",
 				"/github/nproxy-plus/lib/transformers/fetch.js",
 				"/github/nproxy-plus/node_modules/combo-handler/index.js",
-				"/github/nproxy-plus/lib/transformers/concat.js",
 				"/github/nproxy-plus/lib/middlewares/responders/concat.js",
 				"/github/nproxy-plus/lib/middlewares/forward.js",
 				"/github/nproxy-plus/bin/nproxy",
@@ -552,7 +605,6 @@
 				"/proxy/package.json",
 				"/proxy/node_modules/iconv-lite/lib/extend-node.js",
 				"/proxy/node_modules/iconv-lite/lib/index.js",
-				"/github/nproxy-plus/lib/nproxy.js",
 				"/proxy/config.js",
 				"/gitlab/buy/demo/mock/data.js",
 				"/gitlab/buy/demo/build/demo/data.js",
@@ -567,7 +619,6 @@
 				"/gitlab/tb/buy/mt/core/render/tpl-engine/xtemplate.js",
 				"/gitlab/tb/buy/mt/mods/tips/pc/index.xtpl.html",
 				"/gitlab/buy/demo/build/mods.js",
-				"/gitlab/buy/generator-buy/generators/upgrade/basemap.json",
 				"/gitlab/buy/demo/src/component/eticketDesc/index.js",
 				"/gitlab/buy/demo/src/component/eticketDesc/template.xtpl",
 				"/gitlab/buy/demo/src/component/eticketDesc/style.css",
@@ -609,18 +660,7 @@
 				"/gitlab/buy/base/build/base/engine.js",
 				"/gitlab/buy/base/src/base/engine.js",
 				"/gitlab/buy/base/Gruntfile.js",
-				"/gitlab/buy/base/package.json",
-				"/lab/test1/src/app.js",
-				"/lab/test1/src/component/address/view.js",
-				"/lab/test1/src/component/activity/view.js",
-				"/gitlab/buy/upgrade-buy-tb/count.json",
-				"/gitlab/buy/upgrade-buy-tb/lib/subview.txt",
-				"/gitlab/buy/upgrade-buy-tb/test/output.txt",
-				"/lab/test1/src/component/orderGroup/style.css",
-				"/gitlab/buy/upgrade-buy-tb/lib/fields.json",
-				"/gitlab/buy/upgrade-buy-tb/lib/tag.js",
-				"/lab/test1/src/component/address/template.xtpl",
-				"/lab/test1/src/component/stepbar/template.xtpl"
+				"/gitlab/buy/base/package.json"
 			],
 			"find":
 			{
@@ -741,6 +781,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"log",
 					"util/net",
 					"console",
 					"conso",
@@ -867,8 +908,7 @@
 					"debuggr",
 					"5858",
 					"datePicker",
-					"dateP",
-					"stepPay_1"
+					"dateP"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -909,7 +949,7 @@
 			},
 			"replace":
 			{
-				"height": 42.0
+				"height": 72.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -946,7 +986,7 @@
 			{
 			}
 		},
-		"new_window_width": 1440.0
+		"new_window_width": 1392.0
 	},
 	"windows":
 	[
@@ -955,6 +995,1308 @@
 			{
 				"selected_items":
 				[
+					[
+						"ex",
+						"extend"
+					],
+					[
+						"val",
+						"validator"
+					],
+					[
+						"ext",
+						"extData"
+					],
+					[
+						"ite",
+						"itemId"
+					],
+					[
+						"vali",
+						"validator"
+					],
+					[
+						"con",
+						"config"
+					],
+					[
+						"getc",
+						"getCategoryId"
+					],
+					[
+						"get",
+						"getCategory"
+					],
+					[
+						"setC",
+						"setCategory"
+					],
+					[
+						"set",
+						"setItemField"
+					],
+					[
+						"re",
+						"res"
+					],
+					[
+						"su",
+						"subCategory"
+					],
+					[
+						"sele",
+						"selector"
+					],
+					[
+						"set-c",
+						"build/c/set-ctg/index	js"
+					],
+					[
+						"co",
+						"compontent"
+					],
+					[
+						"list",
+						"listArray"
+					],
+					[
+						"selet",
+						"selected"
+					],
+					[
+						"ge",
+						"getListData"
+					],
+					[
+						"param",
+						"params"
+					],
+					[
+						"P",
+						"PANEL_NAME"
+					],
+					[
+						"blo",
+						"blocked_map"
+					],
+					[
+						"cla",
+						"className"
+					],
+					[
+						"tag",
+						"tagName"
+					],
+					[
+						"cl",
+						"className"
+					],
+					[
+						"root",
+						"rootNode"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"app",
+						"app-cart-buy/"
+					],
+					[
+						"git",
+						"gitlab/"
+					],
+					[
+						"va",
+						"validate"
+					],
+					[
+						"ba",
+						"basecomponetpathresolved"
+					],
+					[
+						"base",
+						"basecomponetpath"
+					],
+					[
+						"com",
+						"component"
+					],
+					[
+						"hide",
+						"hideErr"
+					],
+					[
+						"Slide",
+						"SlideUtil"
+					],
+					[
+						"Sli",
+						"SlideUtil"
+					],
+					[
+						"mem",
+						"memo-input"
+					],
+					[
+						"fo",
+						"focusin"
+					],
+					[
+						"hi",
+						"hideMsg"
+					],
+					[
+						"show",
+						"showMsg"
+					],
+					[
+						"mouse",
+						"mouseleave"
+					],
+					[
+						"bas",
+						"basename"
+					],
+					[
+						"pat",
+						"pattern"
+					],
+					[
+						"rea",
+						"readFileSync"
+					],
+					[
+						"C",
+						"Content-Type"
+					],
+					[
+						"res",
+						"responder"
+					],
+					[
+						"requ",
+						"request"
+					],
+					[
+						"respo",
+						"responders"
+					],
+					[
+						"respon",
+						"responder"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"fn",
+						"function"
+					],
+					[
+						"inde",
+						"indexOf"
+					],
+					[
+						"nex",
+						"nextQ"
+					],
+					[
+						"chi",
+						"childDataContent"
+					],
+					[
+						"pkg",
+						"pkgname"
+					],
+					[
+						"pk",
+						"pkgname"
+					],
+					[
+						"p",
+						"packages"
+					],
+					[
+						"o",
+						"_options"
+					],
+					[
+						"pa",
+						"packages"
+					],
+					[
+						"i",
+						"identifier"
+					],
+					[
+						"rep",
+						"responder"
+					],
+					[
+						"fil",
+						"fileName"
+					],
+					[
+						"whi",
+						"Whitelist"
+					],
+					[
+						"mod",
+						"modsFile"
+					],
+					[
+						"ind",
+						"indexFile"
+					],
+					[
+						"index",
+						"indexFile"
+					],
+					[
+						"in",
+						"indexFile"
+					],
+					[
+						"mo",
+						"modelPath"
+					],
+					[
+						"ma",
+						"matches"
+					],
+					[
+						"c",
+						"componentpath"
+					],
+					[
+						"ta",
+						"tagClass"
+					],
+					[
+						"han",
+						"handleUpIf"
+					],
+					[
+						"ha",
+						"handleIf"
+					],
+					[
+						"fi",
+						"fields"
+					],
+					[
+						"pro",
+						"process"
+					],
+					[
+						"xt",
+						"xtemplate"
+					],
+					[
+						"tm",
+						"template"
+					],
+					[
+						"mods",
+						"modspath"
+					],
+					[
+						"up",
+						"upgradefromtaobao"
+					],
+					[
+						"ren",
+						"renderFileSuffix"
+					],
+					[
+						"wra",
+						"wrapperFileSuffix"
+					],
+					[
+						"util",
+						"utility"
+					],
+					[
+						"tar",
+						"targetName"
+					],
+					[
+						"file",
+						"fileStats"
+					],
+					[
+						"op",
+						"operator"
+					],
+					[
+						"conf",
+						"confirmOrder"
+					],
+					[
+						"order",
+						"orderData"
+					],
+					[
+						"ti",
+						"time"
+					],
+					[
+						"K",
+						"KISSY"
+					],
+					[
+						"debu",
+						"debugger"
+					],
+					[
+						"el",
+						"_elSelects"
+					],
+					[
+						"_ma",
+						"_matchByString"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"or",
+						"originalPattern"
+					],
+					[
+						"mat",
+						"matchFn"
+					],
+					[
+						"fun",
+						"function"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/gitlab/cm/m-microsell/src/c/data-item/index.js",
+					"settings":
+					{
+						"buffer_size": 11182,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/cm/m-microsell/src/c/set-ctg/selector.js",
+					"settings":
+					{
+						"buffer_size": 6411,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/cm/m-microsell/src/c/ui-union/index.scss",
+					"settings":
+					{
+						"buffer_size": 836,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/cm/m-microsell/src/c/data-item/model.js",
+					"settings":
+					{
+						"buffer_size": 18670,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 104 files for \"getUIData\"\n\n/gitlab/cm/m-microsell/src/c/btn-submit/index.js:\n   55: 			uiData = __DATA__.getUIData();\n\n/gitlab/cm/m-microsell/src/c/btn-submit/validator.js:\n   18:             var uiData = __DATA__.getUIData();\n\n/gitlab/cm/m-microsell/src/c/data-item/index.js:\n   76: 			model.getUIData(itemId || \"\", cid || \"\", that.setUIData);\n   84: 			that.model.getUIData(itemId || \"\", cid || \"\", that.setUIData);\n   92: 			that.model.getUIData(itemId || \"\", cid , that.setUIDataWithCategory);\n  115: 			if(that.getUIData()[\"image\"]){\n  116: 				var imgList = that.getUIData()[\"image\"].value;\n  128: 			var saleProperty = that.getUIData()[\"spec\"];\n  187: 		getUIData: function() {\n  325: 			var category = that.getUIData()[\"category\"];\n\n/gitlab/cm/m-microsell/src/c/data-item/model.js:\n  351: 		getUIData: function(itemId, cid, callback) {\n\n11 matches across 4 files\n",
+					"settings":
+					{
+						"buffer_size": 881,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 101.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: Install Package"
+					],
+					[
+						"packagec",
+						"Package Control: Install Package"
+					],
+					[
+						"prev",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Enable Package"
+					],
+					[
+						"boo",
+						"Bookmarks: Clear All"
+					],
+					[
+						"book",
+						"Bookmarks: Toggle"
+					],
+					[
+						"find",
+						"Find: In Project"
+					],
+					[
+						"FINDC",
+						"Find: In Current File"
+					],
+					[
+						"FIND",
+						"Find: In..."
+					]
+				],
+				"width": 601.0
+			},
+			"console":
+			{
+				"height": 129.0,
+				"history":
+				[
+					"ll"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/gitlab/cm/m-microsell"
+			],
+			"file_history":
+			[
+				"/github/autopac/autopac.js",
+				"/gitlab/cm/m-microsell/src/c/base/list.scss",
+				"/gitlab/cm/m-microsell/src/c/base/_list.scss",
+				"/gitlab/cm/m-microsell/src/c/btn-submit/validator.js",
+				"/gitlab/cm/m-microsell/src/c/comm-def/index.js",
+				"/private/var/folders/tl/4kjqjqvd2313f6scmc900k6c0000gn/T/FA22DD64-900C-4EB9-B689-5514A0AFB8A4/src/c/data-item/index.js",
+				"/gitlab/cm/m-microsell/demo/publish.html",
+				"/gitlab/cm/m-microsell/src/c/data-item/model.js",
+				"/gitlab/cm/m-microsell/src/c/transition/index.js",
+				"/gitlab/cm/m-microsell/src/c/data-item/index.js",
+				"/gitlab/cm/m-microsell/src/p/publish/index.js",
+				"/gitlab/cm/m-microsell/src/c/base/_index.scss",
+				"/gitlab/cm/m-microsell/src/c/set-ctg/selector.js",
+				"/gitlab/cm/m-microsell/src/c/set-ctg/index.js",
+				"/gitlab/cm/m-microsell/src/c/ui-union/index.js",
+				"/gitlab/cm/m-microsell/demo/item-desc.html",
+				"/gitlab/cm/m-microsell/src/c/btn-submit/index.js",
+				"/gitlab/cm/m-microsell/src/c/btn-submit/index.scss",
+				"/gitlab/cm/m-microsell/src/c/freight/index.js",
+				"/gitlab/cm/m-microsell/src/c/freight/index.jst.html",
+				"/gitlab/cm/m-microsell/src/c/item-price/index.js",
+				"/gitlab/cm/m-microsell/src/c/item-title/index.js",
+				"/gitlab/cm/m-microsell/src/c/data-list/index.js",
+				"/gitlab/cm/m-microsell/src/c/desc/index.js",
+				"/gitlab/cm/m-microsell/src/c/btn-submit/index.jst.html",
+				"/gitlab/cm/m-microsell/index.html",
+				"/gitlab/cm/m-microsell/src/p/publish/index.jst.html",
+				"/gitlab/cm/m-microsell/src/c/set-ctg/index.scss",
+				"/gitlab/cm/m-microsell/src/c/set-ctg/index.jst.html",
+				"/gitlab/cm/m-microsell/src/c/set-ctg/selector.jst.html",
+				"/gitlab/cm/m-microsell/src/c/desc/detail/index.js",
+				"/gitlab/cm/m-microsell/src/c/desc/flextext/index.css",
+				"/gitlab/cm/m-microsell/src/c/desc/detail/index.scss",
+				"/gitlab/cm/m-microsell/src/c/desc/detail/index.jst.html",
+				"/gitlab/cm/m-microsell/src/c/desc/detail/article.jst.html",
+				"/gitlab/cm/m-microsell/src/p/item-list/model.js",
+				"/gitlab/cm/m-microsell/src/p/publish/index.scss",
+				"/Users/john/Downloads/index.scss",
+				"/gitlab/cm/m-microsell/src/p/release/index.jst.html",
+				"/gitlab/cm/m-microsell/src/c/ui-union/index.jst.html",
+				"/gitlab/cm/m-microsell/src/c/item-title/index.jst.html",
+				"/gitlab/cm/m-microsell/demo/release.html",
+				"/gitlab/cm/m-microsell/src/p/item-list/index.js",
+				"/gitlab/cm/m-microsell/src/c/transition/index.jst.html",
+				"/gitlab/cm/m-microsell/src/c/item-desc/index.js",
+				"/gitlab/cm/m-microsell/src/p/release/index.scss",
+				"/gitlab/cm/m-microsell/src/p/release/index.js",
+				"/gitlab/cm/m-microsell/src/c/set-spu/index.js",
+				"/gitlab/cm/m-microsell/src/c/img-edit/index.js",
+				"/gitlab/cm/m-microsell/kimi.json",
+				"/gitlab/cm/m-microsell/abc.json",
+				"/gitlab/cm/m-microsell/src/c/set-spu/index.jst.html",
+				"/gitlab/cm/m-microsell/src/c/img-preview/index.js",
+				"/gitlab/cm/m-microsell/src/c/set-sku/index.js",
+				"/gitlab/cm/m-microsell/src/c/video-widget/index.js",
+				"/gitlab/cm/m-microsell/src/c/set-sku/data.json",
+				"/gitlab/cm/m-microsell/src/c/set-sku/group.js",
+				"/gitlab/cm/m-microsell/src/c/base/index.scss",
+				"/gitlab/cm/m-microsell/src/p/set-sku/index.js",
+				"/gitlab/cm/m-microsell/demo/item-list.html",
+				"/gitlab/kimi/project-sample/src/p/index/index.css",
+				"/gitlab/kimi/project-sample/src/c/base/reset.css",
+				"/gitlab/kimi/project-sample/src/c/base/header.css",
+				"/gitlab/cm/m-microsell/README.md",
+				"/gitlab/cm/m-microsell/src/c/video-upload/index.js",
+				"/gitlab/cm/m-microsell/demo/index.html",
+				"/gitlab/cm/m-microsell/src/c/video-upload/index.undefined",
+				"/gitlab/cm/m-microsell/src/c/video-upload/index.jst.html",
+				"/Users/john/Downloads/ux_1420532926_8510504/iconfont.css",
+				"/Users/john/Desktop/template.json",
+				"/Users/john/Downloads/performance.js",
+				"/Users/john/Desktop/sold.json",
+				"/Users/john/.bash_profile",
+				"/Users/john/Desktop/cart.json",
+				"/github/google-url-shortener/index.html",
+				"/github/google-url-shortener/.bowerrc",
+				"/github/google-url-shortener/demo.html",
+				"/github/google-url-shortener/google-url-shortener.html",
+				"/github/google-url-shortener/bower.json",
+				"/github/google-url-shortener/README.md",
+				"/nep/config.js",
+				"/gitlab/tm/buy-cart-m/src/seed.js",
+				"/gitlab/tm/buy-cart-m/src/biz/shop.js",
+				"/gitlab/tm/buy-cart-m/src/biz/largess.js",
+				"/gitlab/tm/buy-cart-m/src/biz/go.js",
+				"/gitlab/tm/buy-cart-m/src/biz/elect.js",
+				"/gitlab/tm/buy-cart-m/src/biz/del.js",
+				"/gitlab/tm/buy-cart-m/src/biz/coudan.js",
+				"/gitlab/tm/buy-cart-m/src/biz/amount.js",
+				"/gitlab/tm/buy-cart-m/src/render/order.js",
+				"/gitlab/tm/buy-cart-m/src/render/core.js",
+				"/gitlab/tm/buy-cart-m/src/render/common.js",
+				"/gitlab/tm/buy-cart-m/src/model.js",
+				"/gitlab/tm/buy-cart-m/README.md",
+				"/gitlab/tm/buy-cart-m/src/app.js",
+				"/gitlab/tm/buy-cart-m/build/aio.js",
+				"/gitlab/tm/buy-cart-m/transfer.js",
+				"/gitlab/tm/buy-cart-m/src/config.json",
+				"/gitlab/tm/buy-cart-m/src/init.js",
+				"/gitlab/tm/buy-cart-m/src/css/core.css",
+				"/gitlab/tm/buy-cart-m/package.json",
+				"/gitlab/mtb/app-order-buy/src/core/publicMods.js",
+				"/gitlab/mtb/app-order-buy/src/core/render.js",
+				"/gitlab/mtb/app-order-buy/src/tpl/$helpers.js",
+				"/gitlab/mtb/app-order-buy/src/tpl/template.js",
+				"/gitlab/mtb/app-order-buy/Gruntfile.js",
+				"/gitlab/mtb/app-order-buy/src/mods/label/index.html",
+				"/gitlab/mtb/app-order-buy/src/mods/toggle/index.js",
+				"/gitlab/mtb/app-order-buy/src/mods/label/index.js",
+				"/gitlab/mtb/app-cart-buy/src/core/publicMods.js",
+				"/gitlab/mtb/app-cart-buy/src/mods/allItem/index.html",
+				"/gitlab/mtb/app-cart-buy/src/mods/submit/index.js",
+				"/gitlab/mtb/app-cart-buy/src/mods/activity/index.html",
+				"/gitlab/mtb/app-cart-buy/src/bag.js",
+				"/gitlab/mtb/app-cart-buy/src/core/render.js",
+				"/gitlab/mtb/app-cart-buy/src/mods/sku/index.js",
+				"/gitlab/mtb/app-cart-buy/src/mods/item/index.js",
+				"/gitlab/mtb/app-cart-buy/src/mods/stockItem/index.js",
+				"/gitlab/mtb/app-cart-buy/src/mods/reduceItem/index.js",
+				"/gitlab/mtb/app-cart-buy/src/mods/reduceItem/index.html",
+				"/gitlab/mtb/app-cart-buy/demo/data/mock.json",
+				"/gitlab/mtb/app-cart-buy/src/mods/sku/index.html",
+				"/gitlab/mtb/app-cart-buy/src/mods/bundle/index.js",
+				"/gitlab/mtb/app-cart-buy/src/mods/allItem/index.js",
+				"/gitlab/mtb/app-cart-buy/Gruntfile.js",
+				"/gitlab/mtb/app-cart-buy/src/page.js",
+				"/gitlab/mtb/app-cart-buy/src/tpl/template.js",
+				"/gitlab/mtb/app-cart-buy/src/core/template.js"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/gitlab/cm/m-microsell/src",
+					"/gitlab/cm/m-microsell",
+					"/gitlab/cm/m-microsell/src",
+					"/gitlab/mtb/app-order-buy/src",
+					"/gitlab/mtb/app-cart-buy/src/mods",
+					"/gitlab/cm/tradeopen/src/reactor",
+					"/gitlab/cm/tradeopen/src/reactor/seed",
+					"/gitlab/cm/tradeopen/src",
+					"/gitlab/cm/tradeopen/src/style",
+					"/gitlab/cm/tradeopen/src/reactor",
+					"/gitlab/cm/tradeopen/src",
+					"/gitlab/tb/buy/mt/core",
+					"/gitlab/buy/base/src/base",
+					"/gitlab/buy/demo/src",
+					"/gitlab/buy/demo/src/component",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/kg/calendar/src",
+					"/gitlab/kg/slide/lib",
+					"/gitlab/kg/slide/build",
+					"/gitlab/kg/slide/lib",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/lab/test/src",
+					"/gitlab/buy/base/src/base",
+					"/gitlab/buy/base",
+					"/lab/test/src",
+					"/gitlab/buy/base/src",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt/mods/**/*.xtpl.html",
+					"/gitlab/tb/buy/mt/mods/*.xtpl.html",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/buy/demo/build",
+					"/gitlab/buy/demo/src",
+					"/github/nproxy-plus",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/buy/demo/src",
+					"/gitlab/buy/demo/src/component",
+					"/gitlab/buy/demo/src",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/buy/demo/src/component",
+					"/gitlab/buy/demo/src",
+					"/gitlab/buy/demo/src/component",
+					"/gitlab/buy/demo/src",
+					"/gitlab/buy/base/src",
+					"/gitlab/buy/demo/src/component",
+					"/gitlab/buy/demo/src",
+					"/gitlab/buy/demo/src/component",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/buy/base/src/base",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy",
+					"/gitlab/tb/buy/mt/mods",
+					"/lab/test1/src/component",
+					"/gitlab/tb/buy/mt/core",
+					"/lab/test1/src/component",
+					"/gitlab/tb/buy/mt/core",
+					"/gitlab/buy/base/src/base",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/buy/generator-buy/node_modules/yeoman-generator/lib",
+					"/gitlab/buy/generator-buy/node_modules/yeoman-generator/lib/actions",
+					"/gitlab/buy/generator-buy/node_modules/yeoman-generator",
+					"/gitlab/buy/generator-buy/node_modules/yeoman-generator/lib/actions/actions.js",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/buy/base/src",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt/core",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt/core",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/buy/demo/build",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/buy/demo/build",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy",
+					"/gitlab/tb/buy/mt/core/meta",
+					"/gitlab/buy/demo/build",
+					"/gitlab/buy/demo/build/component",
+					"/gitlab/tm/buy/src/mod",
+					"/gitlab/tm/buy/src",
+					"/gitlab/tm/buy/src/mod",
+					"/gitlab/tm/buy/src",
+					"/gitlab/tm/buy",
+					"/gitlab/tm/buy/src",
+					"/gitlab/mtb/app-order-buy/src",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy",
+					"/gitlab/tm/buy/src",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tm/buy/src",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tm/buy/src",
+					"/gitlab/tb/buy/mt",
+					"/gitlab/tb/buy/mt/mods",
+					"/gitlab/cm/rob",
+					"/Users/john/Work/static/rule.config.js",
+					"/Users/john/Work/repos/tb-buy/mt/mods",
+					"/Users/john/Work/repos/rob/src",
+					"/Users/john/Work/repos/app-order-buy/src",
+					"/Users/john/Work/repos/rob/src",
+					"/Users/john/Work/repos/rob/src/mode",
+					"/Users/john/Work/repos/app-order-buy/src",
+					"/Users/john/Work/repos/alifolder-m/src",
+					"/Users/john/Work/repos/app-order-buy/src",
+					"/Users/john/Work/repos/app-order-buy",
+					"/Users/john/Work/repos/rob/src",
+					"/Users/john/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+					"/Users/john/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+					"/Users/john/Work/repos/rob/src/index.js",
+					"/Users/john/Work/repos/app-order-buy",
+					"/Users/john/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+					"/Users/john/.bash_profile",
+					"/Users/john/Work/repos/rob/adress2.js",
+					"/Users/john/Work/repos/rob/Gruntfile.js",
+					"/Users/john/Library/Application Support/Sublime Text 3/Packages/sublime-monokai-extended/Monokai Extended.tmTheme",
+					"/Users/john/Work/repos/rob/adress2.js"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"getUIData",
+					"renderMainPage",
+					"initUI",
+					"toPanel",
+					"toPannel",
+					"node",
+					"no'de",
+					"initUI",
+					"setUiDataWithCategory",
+					"debug",
+					"checkCategory",
+					"check",
+					"mtop",
+					"m'to'p",
+					"getCatagory",
+					"loading",
+					"reDrawMainPage",
+					"J-Tpl-main-page",
+					"switchTo",
+					"toast",
+					"loading",
+					"ImgPreview",
+					"glyphicon",
+					"icon-play",
+					"asiicode",
+					"FontAwesome",
+					"\"PROXY 10.23.8.125:3128\"",
+					"git",
+					"g'i't",
+					"debugger",
+					"selectedOrders",
+					"cartData",
+					"escapeHTML",
+					"escape",
+					"helper",
+					"$escape",
+					"_renderHtml",
+					"_creatElement",
+					"_renderHtml",
+					"_renderOrder",
+					"footer",
+					"toggle",
+					"input",
+					"type",
+					"editor",
+					"includeChild",
+					"tmod",
+					"replace",
+					"depcombo",
+					"register",
+					"scope",
+					"version",
+					"fieldset",
+					"field/item",
+					"async",
+					"support",
+					"load",
+					"watch",
+					"Theme",
+					"verifyOnChange",
+					"hasVerify",
+					"verifyOnChange",
+					"verify",
+					"_inputBind",
+					"div",
+					"this.set('node')",
+					"seedQueue",
+					"readFileSync",
+					"fs",
+					"input",
+					"label",
+					"main_1",
+					"sub_1_1",
+					"mainop_1",
+					"sub_1_1",
+					"headop_1",
+					"item_1_1",
+					"subop_1_1",
+					"item_1_1",
+					"headop_1",
+					"page_1",
+					"globalValidate",
+					"check.all.valid",
+					"base-table-container",
+					"base/table",
+					"basify",
+					"base",
+					"datepicker",
+					"onNeedCompute",
+					"etick",
+					"base-input-container",
+					"tolow",
+					"TMP",
+					"substitute",
+					"publish",
+					"console",
+					"alert",
+					"debugger",
+					"_$",
+					"kissy2yui",
+					"create",
+					"cloneNode",
+					"setStyles",
+					"setStyle",
+					"appendChild",
+					"get",
+					"self.pannels.item(index).get('region')",
+					"self.pannels.item(self.currentTab).get('region')",
+					"self.animcon.get('region')",
+					"get",
+					"set",
+					"size()",
+					"size",
+					"indexOf",
+					"_delegate",
+					"bindEvent",
+					"delegate",
+					"_delegate",
+					"S.isNull_deprecated_api",
+					"isNull",
+					"isUndefined",
+					"S.isUndefined_deprecated_api",
+					"isUndefined",
+					"isHidden",
+					"getHiddenProp",
+					"JSON",
+					"slide-util",
+					"isHidden"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"PUFF",
+					"css",
+					"getElementSize(self.pannels.item(index))",
+					"getElementSize(self.pannels.item(self.currentTab))",
+					"getElementSize(self.animcon)",
+					"length",
+					"delegate",
+					"SlideUtil.isNull",
+					"SlideUtil.isUndefined",
+					"root.fields.",
+					"/gitlab",
+					"/proxy",
+					"\\t",
+					"meta",
+					"/",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/gitlab/cm/m-microsell/src/c/data-item/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11182,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2038,
+										2038
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/gitlab/cm/m-microsell/src/c/set-ctg/selector.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6411,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										127,
+										127
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/gitlab/cm/m-microsell/src/c/ui-union/index.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 836,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										149,
+										149
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/gitlab/cm/m-microsell/src/c/data-item/model.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18670,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										17176,
+										17185
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5480.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 881,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												115,
+												124
+											],
+											[
+												224,
+												233
+											],
+											[
+												303,
+												312
+											],
+											[
+												376,
+												385
+											],
+											[
+												449,
+												458
+											],
+											[
+												526,
+												535
+											],
+											[
+												579,
+												588
+											],
+											[
+												641,
+												650
+											],
+											[
+												671,
+												680
+											],
+											[
+												725,
+												734
+											],
+											[
+												809,
+												818
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										307,
+										307
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"color_scheme": "Packages/BetterFindBuffer/FindResults.hidden-tmTheme",
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 100.0
+			},
+			"output.markdown":
+			{
+				"height": 98.0
+			},
+			"position": "0 0 0 1392 877 0 0 1440 877 ",
+			"project": "txp.sublime-project",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 321.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 389,
+			"workspace_name": "/Users/john/SublimeProjects/txp.sublime-workspace"
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"host",
+						"hostname"
+					],
+					[
+						"par",
+						"parsedUrl"
+					],
+					[
+						"res",
+						"respond"
+					],
+					[
+						"log",
+						"logMatchResult"
+					],
 					[
 						"nep-r",
 						"nep-router-local"
@@ -986,10 +2328,6 @@
 					[
 						"file",
 						"files"
-					],
-					[
-						"res",
-						"results"
 					],
 					[
 						"proto",
@@ -1256,50 +2594,90 @@
 			"buffers":
 			[
 				{
-					"file": "/github/nep/test/config.js",
+					"file": "/github/nep-responder-asset/index.js",
 					"settings":
 					{
-						"buffer_size": 909,
+						"buffer_size": 3983,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/github/nep-router-local/index.js",
+					"file": "/github/nep/lib/middleware/respond.js",
 					"settings":
 					{
-						"buffer_size": 141,
+						"buffer_size": 3815,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/github/nep-router-local/package.json",
+					"file": "/nep/config.js",
 					"settings":
 					{
-						"buffer_size": 376,
+						"buffer_size": 4721,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/github/nep-router-web/package.json",
+					"file": "/github/nep/package.json",
 					"settings":
 					{
-						"buffer_size": 398,
+						"buffer_size": 499,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/github/nep-router-web/index.js",
+					"file": "/github/nep/lib/middleware/fixurl.js",
 					"settings":
 					{
-						"buffer_size": 197,
+						"buffer_size": 471,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/github/nproxy-plus/lib/transformers/concat.js",
+					"file": "/github/nep/lib/middleware/index.js",
 					"settings":
 					{
-						"buffer_size": 579,
+						"buffer_size": 117,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/github/nep/lib/middleware/forward.js",
+					"settings":
+					{
+						"buffer_size": 1440,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/github/nep-request/index.js",
+					"settings":
+					{
+						"buffer_size": 3589,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/github/nep/index.js",
+					"settings":
+					{
+						"buffer_size": 839,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/github/nep/lib/server.js",
+					"settings":
+					{
+						"buffer_size": 3249,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/github/nep/lib/util/log.js",
+					"settings":
+					{
+						"buffer_size": 1682,
 						"line_ending": "Unix"
 					}
 				}
@@ -1409,41 +2787,47 @@
 			"expanded_folders":
 			[
 				"/github/nep",
-				"/github/nep/test/res",
-				"/github/nproxy-plus/lib",
-				"/github/nproxy-plus/lib/transformers",
-				"/github/nep-router-local"
+				"/github/nep/lib",
+				"/github/nep/lib/middleware",
+				"/github/nep-request"
 			],
 			"file_history":
 			[
+				"/github/nep/lib/util/color.js",
 				"/github/nep/package.json",
+				"/github/nep/lib/server.js",
+				"/github/nep/lib/middleware/respond.js",
+				"/github/nep/lib/middleware/fixurl.js",
+				"/github/nep/lib/middleware/forward.js",
+				"/github/nep/bin/nep",
+				"/github/nep-responder-asset/package.json",
+				"/github/nep/test/config.js",
+				"/github/nep-responder-asset/index.js",
+				"/gitlab/buy/generator-buy/generators/upgrade/basemap.json",
+				"/github/nproxy-plus/lib/transformers/concat.js",
+				"/github/nep-router-web/index.js",
+				"/github/nep-router-web/package.json",
+				"/github/nep-router-local/index.js",
+				"/github/nep-router-local/package.json",
 				"/github/nproxy-plus/lib/nproxy.js",
 				"/github/nep-responder-mix/package.json",
 				"/github/nproxy-plus/lib/transformers/local.js",
-				"/github/nep/lib/server.js",
 				"/github/nep/index.js",
-				"/github/nep/bin/nep",
-				"/github/nep/test/config.js",
 				"/github/nep-responder-mix/lib/util.js",
 				"/github/nep-responder-mix/index.js",
 				"/github/nep-responder-web/index.js",
 				"/github/nep/lib/util/env.js",
 				"/github/nep/README.md",
-				"/github/nep/lib/middleware/respond.js",
 				"/github/nep/lib/util/net.js",
 				"/github/nep-responder-buy/index.js",
 				"/github/nep-responder-buy/package.json",
-				"/github/nep-responder-asset/index.js",
 				"/github/nep-request/index.js",
 				"/Users/john/SublimeProjects/nep.sublime-project",
-				"/github/nep/lib/middleware/forward.js",
 				"/proxy/rule/rule.demo.js",
 				"/proxy/rule/rule.taobao.buy.js",
 				"/github/nep/test/res/tpl.html",
 				"/proxy/asset.js",
 				"/github/nep-responder-local/index.js",
-				"/github/nep/lib/middleware/fixurl.js",
-				"/github/nep-responder-asset/package.json",
 				"/github/nproxy-plus/lib/utils.js",
 				"/github/nep/test/res/a.js",
 				"/github/nep-request/package.json",
@@ -1461,7 +2845,6 @@
 				"/github/nproxy-plus/lib/transformers/kissy.js",
 				"/github/nproxy-plus/lib/transformers/fetch.js",
 				"/github/nproxy-plus/node_modules/combo-handler/index.js",
-				"/github/nproxy-plus/lib/transformers/concat.js",
 				"/github/nproxy-plus/lib/middlewares/responders/concat.js",
 				"/github/nproxy-plus/lib/middlewares/forward.js",
 				"/github/nproxy-plus/bin/nproxy",
@@ -1496,7 +2879,6 @@
 				"/gitlab/tb/buy/mt/core/render/tpl-engine/xtemplate.js",
 				"/gitlab/tb/buy/mt/mods/tips/pc/index.xtpl.html",
 				"/gitlab/buy/demo/build/mods.js",
-				"/gitlab/buy/generator-buy/generators/upgrade/basemap.json",
 				"/gitlab/buy/demo/src/component/eticketDesc/index.js",
 				"/gitlab/buy/demo/src/component/eticketDesc/template.xtpl",
 				"/gitlab/buy/demo/src/component/eticketDesc/style.css",
@@ -1538,12 +2920,7 @@
 				"/gitlab/buy/base/build/base/engine.js",
 				"/gitlab/buy/base/src/base/engine.js",
 				"/gitlab/buy/base/Gruntfile.js",
-				"/gitlab/buy/base/package.json",
-				"/lab/test1/src/app.js",
-				"/lab/test1/src/component/address/view.js",
-				"/lab/test1/src/component/activity/view.js",
-				"/gitlab/buy/upgrade-buy-tb/count.json",
-				"/gitlab/buy/upgrade-buy-tb/lib/subview.txt"
+				"/gitlab/buy/base/package.json"
 			],
 			"find":
 			{
@@ -1664,6 +3041,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"console",
+					"log",
 					"util/net",
 					"console",
 					"conso",
@@ -1789,9 +3168,7 @@
 					"debugger",
 					"debuggr",
 					"5858",
-					"datePicker",
-					"dateP",
-					"stepPay_1"
+					"datePicker"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1821,19 +3198,147 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/github/nep/test/config.js",
+							"file": "/github/nep-responder-asset/index.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 909,
+								"buffer_size": 3983,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										178,
-										178
+										228,
+										232
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/github/nep/lib/middleware/respond.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3815,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2824,
+										2843
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1161.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/nep/config.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4721,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										630,
+										630
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/github/nep/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 499,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										348,
+										348
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/github/nep/lib/middleware/fixurl.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 471,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										456,
+										456
 									]
 								],
 								"settings":
@@ -1852,118 +3357,27 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/github/nep-router-local/index.js",
+							"buffer": 5,
+							"file": "/github/nep/lib/middleware/index.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 141,
+								"buffer_size": 117,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										141,
-										141
+										117,
+										117
 									]
 								],
 								"settings":
 								{
 									"apply_syntax_touched": true,
+									"origin_encoding": "ASCII",
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/github/nep-router-local/package.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 376,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										375,
-										375
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/github/nep-router-web/package.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 398,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										398,
-										398
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/github/nep-router-web/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 197,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										186,
-										186
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1973,20 +3387,20 @@
 							"type": "text"
 						},
 						{
-							"buffer": 5,
-							"file": "/github/nproxy-plus/lib/transformers/concat.js",
+							"buffer": 6,
+							"file": "/github/nep/lib/middleware/forward.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 579,
+								"buffer_size": 1440,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										334,
-										334
+										81,
+										84
 									]
 								],
 								"settings":
@@ -2001,7 +3415,135 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/github/nep-request/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3589,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										982,
+										989
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/github/nep/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 839,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										481,
+										481
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/github/nep/lib/server.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3249,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										503,
+										503
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 198.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/github/nep/lib/util/log.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1682,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1013,
+										1013
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
 							"type": "text"
 						}
 					]
@@ -2046,7 +3588,7 @@
 			{
 				"height": 98.0
 			},
-			"position": "0 0 54 1440 823 0 0 1440 877 ",
+			"position": "0 0 0 1392 877 0 0 1440 877 ",
 			"project": "nep.sublime-project",
 			"replace":
 			{
@@ -2090,7 +3632,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 294,
+			"window_id": 388,
 			"workspace_name": "/Users/john/SublimeProjects/nep.sublime-workspace"
 		}
 	],
@@ -2098,6 +3640,7 @@
 	{
 		"recent_workspaces":
 		[
+			"/Users/john/SublimeProjects/txp.sublime-workspace",
 			"/Users/john/SublimeProjects/nep.sublime-workspace",
 			"/Users/john/SublimeProjects/buymisc.sublime-workspace",
 			"/Users/john/SublimeProjects/buy.sublime-workspace",
