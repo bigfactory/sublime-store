@@ -2,18 +2,14 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
+		"42 Headers",
 		"Alignment",
-		"All Autocomplete",
 		"ApplySyntax",
 		"AutoFileName",
 		"BetterFindBuffer",
+		"BracketHighlighter",
 		"Codecs33",
 		"ColorPicker",
 		"ConvertToUTF8",
@@ -30,6 +26,7 @@
 		"Monokai Extended",
 		"Package Control",
 		"Sass",
+		"SublimeCodeIntel",
 		"Theme - El Capitan",
 		"Theme - Spacegray",
 		"Xtemplate"
