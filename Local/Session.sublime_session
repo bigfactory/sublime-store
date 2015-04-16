@@ -1,6 +1,31 @@
 {
 	"folder_history":
 	[
+		"/gitlab/buy/demo",
+		"/gitlab/kg/slide",
+		"/gitlab/cm/insight",
+		"/nep",
+		"/gitlab/sj/chameleon",
+		"/github/mou-markxiang-classic",
+		"/gitlab/xiaocong.hxc/dynamic-favicon",
+		"/gitlab/xiaocong.hxc/css-blend-mode",
+		"/gitlab/xiaocong.hxc/noscheme",
+		"/gitlab/shop/tae-portal",
+		"/Users/john/Desktop/daily_export",
+		"/gitlab/xiaocong.hxc/noscheme-reportor",
+		"/gitlab/tb/refundface",
+		"/repos/20150404_218285_https_1",
+		"/Users/john/Desktop/daily",
+		"/repos/20150330_213271_rpupgrade_1/refundface",
+		"/gitlab/tb/refundface/src",
+		"/gitlab/tb/snapshot-transform",
+		"/usr/local/lib/node_modules/npm",
+		"/gitlab/kpm/kpm-cli",
+		"/usr/local/lib/node_modules/yo",
+		"/gitlab/buy/demo/build",
+		"/gitlab/kpm/kpm-compatible-check",
+		"/gitlab/tbm/snapshot",
+		"/github/nep-request",
 		"/gitlab/lego/lego-boost-ui",
 		"/lab/lego-maker",
 		"/github/grunt-lego-market-index",
@@ -16,10 +41,6 @@
 		"/github/node-require-json",
 		"/gitlab/kpm",
 		"/gitlab/kpm/kpm-json-fetch",
-		"/nep",
-		"/gitlab/buy/demo",
-		"/gitlab/xiaocong.hxc/noscheme",
-		"/usr/local/lib/node_modules/npm",
 		"/gitlab/kpm/kpm-seed",
 		"/gitlab/kpm/kpm-normalize",
 		"/gitlab/tm/buy",
@@ -28,9 +49,7 @@
 		"/lab/gam/kpm-test",
 		"/gitlab/kpm/grunt-kpm",
 		"/gitlab/kpm/kpm",
-		"/gitlab/shop/tae-portal",
 		"/Users/john/Downloads/項目/ttt",
-		"/gitlab/tbm/snapshot",
 		"/gitlab/tb/snapshot-market",
 		"/gitlab/tb/snapshot",
 		"/github/nep",
@@ -71,7 +90,6 @@
 		"/lab/empty-npm/testNpmUpdate",
 		"/github/nep-responder-local",
 		"/usr/local/lib/node_modules/nep-responder-local",
-		"/github/mou-markxiang-classic",
 		"/gitlab/mtb/app-cart-buy",
 		"/Users/john/Desktop/mou-style",
 		"/gitlab/tbc/km-transition",
@@ -91,7 +109,6 @@
 		"/lab/test2",
 		"/github/nep-responder-asset",
 		"/gitlab/kg/calendar",
-		"/gitlab/kg/slide",
 		"/lab/test",
 		"/github/nep-router-web",
 		"/github/nep-router-local",
@@ -99,7 +116,6 @@
 		"/github/nep-responder-mix",
 		"/github/tianma",
 		"/github/nep-responder-buy",
-		"/github/nep-request",
 		"/github/nep-responder-web",
 		"/proxy",
 		"/github/ngroxy",
@@ -110,28 +126,12 @@
 		"/lab/gam-responder-asset",
 		"/lab/gam-responder-local",
 		"/lab/gam",
-		"/usr/local/lib/node_modules/yo",
 		"/github/anproxy",
 		"/lab/decode",
-		"/lab/demo",
-		"/lab/test4",
-		"/lab/test1",
-		"/gitlab/cm/rob",
-		"/gitlab/buy/grunt-buy-componentlist",
-		"/lab/git_example",
-		"/gitlab/cm/wiki.wiki/sz",
-		"/gitlab/buy/generator-buy",
-		"/gitlab/buy/tools/upgrade-buy-tb",
-		"/gitlab/buy/component-list",
-		"/proxy/rule",
-		"/lab/test-buy",
-		"/gitlab/buy/tools",
-		"/lab/test-buy/node_modules/grunt-xtemplate",
-		"/lab/move-buy-css",
-		"/lab/move-buy-xtpl"
+		"/lab/demo"
 	],
-	"last_version": 3065,
-	"last_window_id": 669,
+	"last_version": 3083,
+	"last_window_id": 742,
 	"log_indexing": false,
 	"settings":
 	{
@@ -143,48 +143,24 @@
 				"selected_items":
 				[
 					[
-						"time",
-						"timeLimit"
+						"arg",
+						"args"
 					],
 					[
-						"pro",
-						"prototype"
+						"s",
+						"stringformat"
+					],
+					[
+						"msg",
+						"msgstr"
 					],
 					[
 						"com",
-						"composeAll"
+						"component〔argument〕"
 					],
 					[
-						"sel",
-						"selectedTab〔variable〕"
-					],
-					[
-						"de",
-						"descriptions"
-					],
-					[
-						"getmi",
-						"getMinutes〔function〕"
-					],
-					[
-						"get",
-						"getMonth〔function〕"
-					],
-					[
-						"re",
-						"replacer"
-					],
-					[
-						"run",
-						"run〔function〕"
-					],
-					[
-						"a",
-						"assets"
-					],
-					[
-						"getCo",
-						"getConfig"
+						"m",
+						"marketName"
 					],
 					[
 						"c",
@@ -221,6 +197,10 @@
 					[
 						"fun",
 						"function〔keyword〕"
+					],
+					[
+						"pro",
+						"prototype"
 					],
 					[
 						"scr",
@@ -279,8 +259,16 @@
 						"showMsg"
 					],
 					[
+						"re",
+						"removeClass"
+					],
+					[
 						"mouse",
 						"mouseleave"
+					],
+					[
+						"get",
+						"generator"
 					],
 					[
 						"bas",
@@ -512,10 +500,14 @@
 					]
 				]
 			},
-			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
 				"height": 400.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -636,97 +628,39 @@
 			},
 			"file_history":
 			[
-				"/gitlab/tb/snapshot-market/kissy.json",
-				"/gitlab/tb/snapshot/package.json",
-				"/gitlab/tb/snapshot-market/package.json",
-				"/gitlab/tb/snapshot-market/Gruntfile.js",
-				"/gitlab/tb/snapshot-market/build/kissy.json",
-				"/gitlab/tb/snapshot-market/src/outro.js",
-				"/gitlab/tb/snapshot-market/build/seed.js",
-				"/gitlab/tb/snapshot/kissy.json",
-				"/gitlab/tb/snapshot/build/seed.js",
-				"/gitlab/tb/snapshot/build/kissy.json",
-				"/gitlab/tb/snapshot/kissy.tmp.json",
-				"/gitlab/tb/snapshot-market/build/outro.js",
-				"/gitlab/tb/snapshot/Gruntfile.js",
-				"/gitlab/tb/snapshot-market/node_modules/@ali/grunt-lego-market-index/tasks/template/index.tpl",
-				"/gitlab/tb/snapshot-market/node_modules/@ali/grunt-lego-market-index/tasks/lego_market_index.js",
-				"/gitlab/tb/snapshot-market/node_modules/@ali/grunt-lego-market-index/Gruntfile.js",
-				"/gitlab/tb/snapshot-market/src/config.json",
+				"/gitlab/lego/lego-composer/src/index.js",
+				"/gitlab/lego/lego-loader/src/index.js",
+				"/gitlab/lego/lego-boost-ui/build/index.js",
+				"/gitlab/lego/lego-toolkit/src/index.js",
+				"/gitlab/lego/lego-model/src/index.js",
+				"/gitlab/lego/lego-engine/src/index.js",
+				"/gitlab/lego/lego-boost-ui/src/index.js",
+				"/gitlab/lego/lego-composer/build/kissy.json",
+				"/gitlab/lego/lego-composer/build/seed.js",
+				"/gitlab/lego/lego-toolkit/build/seed.js",
+				"/gitlab/lego/lego-toolkit/build/kissy.json",
+				"/gitlab/lego/lego-toolkit/Gruntfile.js",
+				"/gitlab/lego/seed/package.json",
+				"/gitlab/lego/seed/build/seed.js",
+				"/gitlab/lego/lego-composer/build/index.js",
+				"/gitlab/lego/lego-boost-ui/package.json",
+				"/gitlab/lego/seed/build/kissy.json",
+				"/gitlab/lego/seed/build/intro.js",
+				"/gitlab/lego/seed/Gruntfile.js",
+				"/gitlab/lego/seed/kissy.json",
+				"/gitlab/lego/seed/src/extra.js",
+				"/gitlab/lego/lego-toolkit/package.json",
+				"/gitlab/lego/lego-composer/Gruntfile.js",
+				"/gitlab/lego/lego-loader/Gruntfile.js",
+				"/gitlab/lego/lego-loader/package.json",
+				"/gitlab/lego/lego-loader/build/index.js",
+				"/gitlab/lego/lego-boost-ui/build/test.htm",
+				"/gitlab/lego/seed/build/seed-min.js",
+				"/gitlab/lego/lego-toolkit/build/index.js",
 				"/gitlab/tb/snapshot/demo/index.htm",
-				"/gitlab/tb/snapshot-market/node_modules/grunt-contrib-clean/tasks/clean.js",
-				"/gitlab/tbm/snapshot/app/views/layout/default-layout.xtpl",
-				"/gitlab/tb/snapshot-market/src/mods/freight/index.js",
-				"/gitlab/tb/snapshot-market/node_modules/grunt-contrib-copy/tasks/copy.js",
-				"/gitlab/tb/snapshot-market/src/mods/assumpsit/index.js",
-				"/gitlab/tbm/snapshot/bin/app.js",
-				"/gitlab/tbm/snapshot/app/views/page/snapshot-page.xtpl",
-				"/gitlab/tb/snapshot-market/src/mods/price/index.xtpl",
-				"/gitlab/tb/snapshot-market/src/mods/freight/index.xtpl",
-				"/gitlab/tb/snapshot-market/src/mods/base/index.xtpl",
-				"/gitlab/tb/snapshot-market/src/mods/assumpsit/index.xtpl",
-				"/gitlab/tb/snapshot-market/src/mods/description/index.xtpl",
-				"/gitlab/tb/snapshot-market/src/mods/freight/index-xtpl.js",
-				"/gitlab/tb/snapshot-market/src/mods/detail/index.xtpl",
-				"/gitlab/tbm/snapshot/app/controllers/snapshot-controller.js",
-				"/gitlab/tb/snapshot-market/src/mods/assumpsit/locales/zh_cn.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/index.js",
-				"/gitlab/tb/snapshot-market/src/mods/tabbar/index.js",
-				"/gitlab/tb/snapshot/demo/mock/pc.js",
-				"/gitlab/tbm/snapshot/app/mock/snapshot.json",
-				"/gitlab/tb/snapshot-market/src/mods/description/index.js",
-				"/gitlab/tb/snapshot-market/src/mods/tabbar/index.xtpl",
-				"/gitlab/tbm/snapshot/app/mock/mock.json",
-				"/gitlab/tbm/snapshot/config/local.conf",
-				"/gitlab/tbm/snapshot/app/views/snapshot.xtpl",
-				"/gitlab/sea/buy/.gitignore",
-				"/gitlab/xiaocong.hxc/noscheme/.gitignore",
-				"/lab/test4/.gitignore",
-				"/gitlab/xiaocong.hxc/noscheme/lib/util/log.js",
-				"/gitlab/xiaocong.hxc/noscheme/lib/util/misc.js",
-				"/gitlab/xiaocong.hxc/noscheme/lib/factory.js",
-				"/gitlab/xiaocong.hxc/noscheme/index.js",
-				"/gitlab/xiaocong.hxc/noscheme/example.config.js",
-				"/gitlab/xiaocong.hxc/noscheme/bin/noscheme",
-				"/gitlab/xiaocong.hxc/noscheme/lib/replace.js",
-				"/gitlab/xiaocong.hxc/noscheme/package.json",
-				"/gitlab/tb/snapshot-market/build/seed-min.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/node_modules/@ali/kissy-runtime/index.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/lib/kissy-meta.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/test/spec/loader.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/README.md",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/node_modules/@ali/kissy-loader/demo/seed.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/lib/kissy-loader/lib/init.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/lib/kissy-loader/lib/config.js",
-				"/gitlab/tb/snapshot-market/src/mods/title/index.xtpl",
-				"/gitlab/tb/snapshot-market/src/mods/price/index-xtpl.js",
-				"/gitlab/xiaocong.hxc/noscheme/test.js",
-				"/gitlab/sea/buy/src/mods/station/pc/address.js",
-				"/gitlab/tbm/snapshot/app.js",
-				"/gitlab/tbm/snapshot/package.json",
-				"/gitlab/tbm/snapshot/bin/_app.js",
-				"/gitlab/tbm/snapshot/node_modules/midway/lib/modules/config.js",
-				"/gitlab/tbm/snapshot/node_modules/midway/lib/modules/info.js",
-				"/gitlab/tbm/snapshot/node_modules/midway/lib/midway.js",
-				"/gitlab/tbm/snapshot/config/production.conf",
-				"/gitlab/tbm/snapshot/config/development.conf",
-				"/gitlab/tbm/snapshot/README.md",
-				"/gitlab/tbm/snapshot/config/base.conf",
-				"/gitlab/tbm/snapshot/node_modules/midway/meta/koa-default.conf",
-				"/gitlab/tbm/snapshot/node_modules/midway/node_modules/path-tools/index.js",
-				"/gitlab/tbm/snapshot/node_modules/midway/node_modules/@ali/midway-utils/lib/rich-path.js",
-				"/gitlab/tbm/snapshot/node_modules/midway/lib/utils/module-util.js",
-				"/gitlab/tbm/snapshot/config/interface/interfaceRules/Snap.detailCO.rule.json",
-				"/gitlab/tbm/snapshot/config/interface/interfaceRules/Snap.sellerCO.rule.json",
-				"/gitlab/tbm/snapshot/config/interface/interfaceRules/Snap.snapCO.rule.json",
+				"/gitlab/lego/lego-model/build/index.js",
 				"/gitlab/lego/seed/mock/snapshot.js",
 				"/gitlab/lego/seed/test/index.htm",
-				"/gitlab/lego/lego-loader/build/index.js",
-				"/gitlab/lego/lego-composer/build/index.js",
-				"/gitlab/lego/seed/build/seed.js",
-				"/gitlab/lego/lego-model/build/index.js",
-				"/gitlab/lego/lego-boost-ui/build/index.js",
-				"/gitlab/lego/lego-toolkit/build/index.js",
 				"/gitlab/lego/lego-market-test/build/seed.js",
 				"/gitlab/lego/lego-market-test/Gruntfile.js",
 				"/gitlab/lego/lego-market-test/package.json",
@@ -763,7 +697,65 @@
 				"/gitlab/tb/buy/Gruntfile.js",
 				"/gitlab/tb/buy/build/mt/index.js",
 				"/gitlab/buy/demo/Gruntfile.js",
-				"/gitlab/buy/upgrade-buy-tb/ref/subview_parent.txt"
+				"/gitlab/buy/upgrade-buy-tb/ref/subview_parent.txt",
+				"/gitlab/buy/upgrade-buy-tb/ref/subview.txt",
+				"/gitlab/buy/base/src/base/xtpl-ext/commands.js",
+				"/gitlab/buy/demo/src/component/order/template.xtpl",
+				"/gitlab/buy/base/src/base/component/render/view.js",
+				"/gitlab/buy/demo/src/component/confirmOrder/template.xtpl",
+				"/gitlab/buy/demo/src/component/confirmOrder/index.js",
+				"/gitlab/buy/demo/src/component/address/template.xtpl",
+				"/gitlab/buy/base/src/base/model.js",
+				"/gitlab/tb/buy/mt/mods/terms/pc/eticket.xtpl.html",
+				"/gitlab/tb/buy/mt/mods/terms/pc/index.xtpl.html",
+				"/gitlab/tb/buy/mt/mods/confirmOrder/pc/index.xtpl.html",
+				"/gitlab/buy/base/src/base/engine.js",
+				"/gitlab/buy/demo/src/component/anonymous/index.js",
+				"/gitlab/buy/demo/src/component/cod/index.js",
+				"/gitlab/buy/demo/src/component/eticketDesc/index.js",
+				"/gitlab/buy/base/src/base/view.js",
+				"/gitlab/buy/base/src/base/renderer.js",
+				"/gitlab/buy/base/src/base/component.js",
+				"/gitlab/buy/base/src/base/agent.js",
+				"/gitlab/buy/base/src/base/helper/price.js",
+				"/gitlab/buy/base/src/base/util/assert.js",
+				"/gitlab/buy/base/src/base/util/fmt.js",
+				"/gitlab/buy/demo/demo/index.html",
+				"/Users/john/Desktop/mock.json",
+				"/gitlab/buy/demo/src/component/dsDesc/index.js",
+				"/gitlab/tb/buy/mt/mods/address/pc/index.js",
+				"/gitlab/buy/demo/src/component/address/model.js",
+				"/gitlab/buy/demo/src/whitelist.js",
+				"/gitlab/buy/upgrade-buy-tb/ref/output.txt",
+				"/gitlab/buy/upgrade-buy-tb/ref/count.json",
+				"/gitlab/buy/upgrade-buy-tb/getview.js",
+				"/gitlab/buy/base/src/base/order-data.js",
+				"/gitlab/buy/base/src/base/xtpl-ext/wrap.js",
+				"/gitlab/tb/buy/mt/mods/agencyPay/pc/index.js",
+				"/gitlab/buy/demo/src/component/base/input/view.js",
+				"/gitlab/buy/demo/src/component/base/input/index.js",
+				"/Users/john/Downloads/淘云盘打包下载_20141222_13_54/wirelss_mock_data.json",
+				"/Users/john/Desktop/tm.json",
+				"/Users/john/Desktop/sold.json",
+				"/Users/john/Downloads/wirelss_mock_data.json",
+				"/gitlab/tb/buy/mt/mods/tmallPoint/pc/index.js",
+				"/gitlab/tb/buy/mt/core/render/render.js",
+				"/gitlab/tb/buy/mt/core/index.js",
+				"/gitlab/tb/buy/mt/core/public.js",
+				"/gitlab/tb/buy/mt/mods/submitOrder/pc/index.js",
+				"/gitlab/buy/demo/src/component/submitOrder/view.js",
+				"/gitlab/buy/demo/src/component/submitOrder/model.js",
+				"/gitlab/tb/buy/mt/core/meta/sub-models/component.js",
+				"/gitlab/tb/buy/mt/core/render/sub-models/event-binder.js",
+				"/gitlab/tb/buy/mt/base/input/index.js",
+				"/gitlab/buy/demo/src/component/tmallPoint/view.js",
+				"/gitlab/buy/demo/src/component/tmallPoint/model.js",
+				"/lab/test/src/component/base/datePicker/view.js",
+				"/gitlab/buy/demo/src/component/base/datepicker/view.js",
+				"/gitlab/buy/demo/src/component/base/label/view.js",
+				"/gitlab/tb/buy/mt/base/label/index.js",
+				"/gitlab/tb/buy/mt/base/table/index.js",
+				"/gitlab/buy/demo/src/component/base/table/index.js"
 			],
 			"find":
 			{
@@ -774,9 +766,6 @@
 				"height": 93.0,
 				"where_history":
 				[
-					"/gitlab/tb/snapshot-market/src/mods",
-					"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed",
-					"/gitlab/tbm/snapshot/node_modules/midway",
 					"/gitlab/kissy/loader",
 					"/gitlab/kissy/k/build",
 					"/gitlab/tb/buy/build/mt/mods",
@@ -901,6 +890,9 @@
 					"/Users/john/Work/repos/rob/adress2.js",
 					"/Users/john/Work/repos/rob/Gruntfile.js",
 					"/Users/john/Library/Application Support/Sublime Text 3/Packages/sublime-monokai-extended/Monokai Extended.tmTheme",
+					"/Users/john/Work/repos/rob/adress2.js",
+					"/Users/john/Library/Application Support/Sublime Text 3/Packages/sublime-monokai-extended/Monokai Extended Bright.tmTheme",
+					"/Users/john/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
 					"/Users/john/Work/repos/rob/adress2.js"
 				]
 			},
@@ -909,19 +901,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"cwd",
-					"{{{",
-					"tabbar_1",
-					"daily",
-					"tbcdn",
-					"http",
-					"computeRootPath",
-					"NODE_ENV_KEY",
-					"NODE_ENV",
-					"makeAppConfigPath",
-					"appEnvParentConfig",
-					"configModule",
-					"config",
+					"util",
 					"description",
 					"base_1",
 					"description",
@@ -1036,7 +1016,19 @@
 					"alert",
 					"debugger",
 					"anim",
-					"global-min"
+					"global-min",
+					"S",
+					"event",
+					"base",
+					"KISSY",
+					"Kissy",
+					"kissy",
+					"Kissy",
+					"buildHtml",
+					"kg/",
+					"relations",
+					"relation",
+					"kg"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1084,14 +1076,16 @@
 			{
 				"height": 98.0
 			},
+			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 72.0
+				"height": 42.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1100,6 +1094,7 @@
 			"select_project":
 			{
 				"height": 500.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1108,12 +1103,13 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
 				"width": 0.0
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
@@ -1133,128 +1129,28 @@
 				"selected_items":
 				[
 					[
-						"se",
-						"seedJsExpected"
+						"arg",
+						"args"
 					],
 					[
-						"ki",
-						"kissyJsonExpected"
+						"s",
+						"stringformat"
 					],
 					[
-						"re",
-						"resultPath"
-					],
-					[
-						"de",
-						"destPath"
-					],
-					[
-						"ex",
-						"expectedRes"
-					],
-					[
-						"d",
-						"dependentHash"
-					],
-					[
-						"ve",
-						"versionArr"
-					],
-					[
-						"exp",
-						"expected"
-					],
-					[
-						"sr",
-						"srcPath"
-					],
-					[
-						"no",
-						"normalize"
-					],
-					[
-						"parse",
-						"parseError〔variable〕"
-					],
-					[
-						"fetc",
-						"fetcher〔variable〕"
-					],
-					[
-						"le",
-						"lego-toolkit"
-					],
-					[
-						"pa",
-						"path"
-					],
-					[
-						"n",
-						"normalize"
-					],
-					[
-						"co",
-						"compare"
-					],
-					[
-						"get",
-						"getKissyJson"
-					],
-					[
-						"er",
-						"errorHandler:errorHandler"
-					],
-					[
-						"st",
-						"steps"
-					],
-					[
-						"c",
-						"config"
-					],
-					[
-						"v",
-						"version"
-					],
-					[
-						"var",
-						"varsion〔variable〕"
-					],
-					[
-						"p",
-						"parts"
-					],
-					[
-						"deps",
-						"depsArr〔variable〕"
-					],
-					[
-						"sel",
-						"selectedTab〔variable〕"
+						"msg",
+						"msgstr"
 					],
 					[
 						"com",
-						"composer"
+						"component〔argument〕"
 					],
 					[
-						"getmi",
-						"getMinutes〔function〕"
+						"m",
+						"marketName"
 					],
 					[
-						"pro",
-						"process"
-					],
-					[
-						"run",
-						"run〔function〕"
-					],
-					[
-						"a",
-						"assets"
-					],
-					[
-						"getCo",
-						"getConfig"
+						"c",
+						"callback"
 					],
 					[
 						"l",
@@ -1266,6 +1162,10 @@
 					],
 					[
 						"const",
+						"constructors"
+					],
+					[
+						"co",
 						"constructors"
 					],
 					[
@@ -1283,6 +1183,10 @@
 					[
 						"fun",
 						"function〔keyword〕"
+					],
+					[
+						"pro",
+						"prototype"
 					],
 					[
 						"scr",
@@ -1341,8 +1245,16 @@
 						"showMsg"
 					],
 					[
+						"re",
+						"removeClass"
+					],
+					[
 						"mouse",
 						"mouseleave"
+					],
+					[
+						"get",
+						"generator"
 					],
 					[
 						"bas",
@@ -1413,8 +1325,16 @@
 						"pkgname"
 					],
 					[
+						"p",
+						"packages"
+					],
+					[
 						"o",
 						"_options"
+					],
+					[
+						"pa",
+						"packages"
 					],
 					[
 						"i",
@@ -1553,6 +1473,10 @@
 						"require"
 					],
 					[
+						"ex",
+						"exist"
+					],
+					[
 						"or",
 						"originalPattern"
 					],
@@ -1565,98 +1489,23 @@
 			"buffers":
 			[
 				{
-					"file": "/gitlab/kpm/kpm/index.js",
+					"file": "/gitlab/lego/lego-boost-ui/src/index.js",
 					"settings":
 					{
-						"buffer_size": 1572,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/gitlab/kpm/kpm-seed/index.js",
-					"settings":
-					{
-						"buffer_size": 962,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/gitlab/kpm/kpm-seed/lib/factory.js",
-					"settings":
-					{
-						"buffer_size": 1657,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/gitlab/kpm/kpm-module-parse/index.js",
-					"settings":
-					{
-						"buffer_size": 1521,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/gitlab/kpm/kpm-module-parse/package.json",
-					"settings":
-					{
-						"buffer_size": 589,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/gitlab/kpm/kpm-seed/package.json",
-					"settings":
-					{
-						"buffer_size": 755,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/gitlab/kpm/grunt-kpm/package.json",
-					"settings":
-					{
-						"buffer_size": 891,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/gitlab/kpm/kpm-seed/lib/template/seed.tpl",
-					"settings":
-					{
-						"buffer_size": 737,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/gitlab/kpm/kpm/test/result/kissy.json",
-					"settings":
-					{
-						"buffer_size": 274,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/gitlab/kpm/kpm/test/result/seed.js",
-					"settings":
-					{
-						"buffer_size": 566,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/gitlab/kpm/kpm-module-parse/test/test.js",
-					"settings":
-					{
-						"buffer_size": 450,
+						"buffer_size": 2989,
 						"line_ending": "Unix"
 					}
 				}
 			],
 			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
 				"height": 400.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -1777,142 +1626,140 @@
 			},
 			"expanded_folders":
 			[
-				"/gitlab/kpm/kpm/test/result",
-				"/gitlab/kpm/kpm-seed/lib",
-				"/gitlab/kpm/kpm-seed/lib/template",
-				"/gitlab/kpm/kpm-module-parse/test",
-				"/gitlab/kpm/kpm-module-parse/test/src"
+				"/gitlab/lego/lego-boost-ui",
+				"/gitlab/lego/lego-boost-ui/build",
+				"/gitlab/lego/lego-boost-ui/src"
 			],
 			"file_history":
 			[
-				"/gitlab/kpm/kpm/package.json",
-				"/gitlab/kpm/kpm-seed/lib/template/seed.tpl",
-				"/gitlab/kpm/kpm-module-parse/test/src/index.js",
-				"/gitlab/kpm/kpm/test/kissy.json",
-				"/gitlab/kpm/kpm-module-parse/index.js",
-				"/gitlab/kpm/kpm-conflict-check/index.js",
-				"/gitlab/kpm/kpm-json-fetch/index.js",
-				"/gitlab/kpm/kpm-normalize/index.js",
-				"/gitlab/kpm/kpm/index.js",
-				"/gitlab/kpm/kpm-seed/lib/factory.js",
-				"/gitlab/kpm/kpm-conflict-check/test/conflictCheck.js",
-				"/gitlab/kpm/kpm-json-fetch/test.js",
-				"/gitlab/kpm/kpm-seed/lib/reporter.js",
-				"/gitlab/kpm/kpm-seed/test/input/kissy.error.json",
-				"/gitlab/kpm/kpm-seed/test/input/kissy.json",
-				"/gitlab/kpm/kpm-seed/package.json",
-				"/gitlab/kpm/kpm-seed/test.js",
-				"/gitlab/kpm/kpm-seed/index.js",
-				"/gitlab/kpm/kpm/test/test.js",
-				"/gitlab/kpm/grunt-kpm/tasks/kpm.js",
-				"/gitlab/kpm/kpm/test/kissy.error.json",
-				"/gitlab/kpm/kpm-seed/test/test.js",
-				"/gitlab/kpm/grunt-kpm/package.json",
-				"/gitlab/kpm/grunt-kpm/test/kpm_test.js",
-				"/gitlab/kpm/grunt-kpm/Gruntfile.js",
-				"/gitlab/kpm/grunt-kpm/test/result/kissy.json",
-				"/gitlab/kpm/grunt-kpm/test/build/seed.js",
-				"/gitlab/kpm/grunt-kpm/test/build/kissy.json",
-				"/gitlab/kpm/grunt-kpm/test/src/a.js",
-				"/gitlab/kpm/grunt-kpm/node_modules/@ali/kpm/package.json",
-				"/gitlab/kpm/grunt-kpm/node_modules/@ali/kpm/index.js",
-				"/gitlab/kpm/grunt-kpm/test/expected/default_options",
-				"/gitlab/kpm/grunt-kpm/test/expected/custom_options",
-				"/gitlab/kpm/grunt-kpm/test/fixtures/testing",
-				"/gitlab/kpm/grunt-kpm/test/fixtures/123",
-				"/gitlab/kpm/kpm-normalize/package.json",
-				"/gitlab/kpm/kpm-normalize/test/normalize.js",
-				"/gitlab/kpm/kpm-normalize/README.md",
-				"/gitlab/kpm/kpm-json-fetch/package.json",
-				"/gitlab/kpm/kpm-json-fetch/test/fetch.js",
-				"/gitlab/kpm/kpm-json-fetch/README.md",
-				"/gitlab/kpm/kpm/lib/http-client.js",
-				"/gitlab/kpm/kpm/bin/kpm.js",
-				"/gitlab/kpm/kpm/bin/kpm-init.js",
-				"/gitlab/kpm/kpm/lib/fetchPackageDependencies.js",
-				"/gitlab/kpm/kpm/lib/log.js",
-				"/gitlab/kpm/kpm/lib/createDependencies.js",
-				"/gitlab/kpm/kpm/lib/configPackage.js",
-				"/gitlab/kpm/kpm/lib/configDependencies.js",
-				"/gitlab/kpm/kpm/bin/options.js",
-				"/gitlab/kpm/kpm-dependencies-parse/index.js",
-				"/gitlab/kpm/kpm/lib/templates/packages.js",
-				"/gitlab/kpm/kpm/bin/kpm-seed.js",
-				"/gitlab/kpm/kpm/bin/cli.js",
-				"/Users/john/Downloads/項目/ttt/src/game.js",
-				"/Users/john/Downloads/項目/ttt/bin/main.js",
-				"/Users/john/Downloads/項目/ttt/js/ttt-view.js",
-				"/Users/john/Downloads/項目/ttt/js/ttt-core.js",
-				"/Users/john/Downloads/項目/ttt/src/board.js",
-				"/Users/john/Downloads/項目/ttt/src/index.js",
-				"/Users/john/Downloads/項目/ttt/src/moveError.js",
-				"/Users/john/Downloads/項目/ttt/README.md",
-				"/Users/john/Downloads/項目/ttt/index.php",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/index.js",
-				"/gitlab/tb/snapshot-market/src/mods/tabbar/index.js",
-				"/gitlab/tb/snapshot/demo/mock/pc.js",
-				"/gitlab/tbm/snapshot/app/mock/snapshot.json",
-				"/gitlab/tb/snapshot-market/src/config.json",
-				"/gitlab/tb/snapshot-market/src/mods/description/index.js",
-				"/gitlab/tb/snapshot-market/src/mods/tabbar/index.xtpl",
-				"/gitlab/tbm/snapshot/app/mock/mock.json",
-				"/gitlab/tbm/snapshot/config/local.conf",
-				"/gitlab/tbm/snapshot/app/views/snapshot.xtpl",
-				"/gitlab/tbm/snapshot/app/views/layout/default-layout.xtpl",
-				"/gitlab/tbm/snapshot/bin/app.js",
-				"/gitlab/tb/snapshot-market/src/mods/description/index.xtpl",
+				"/gitlab/lego/lego-composer/src/index.js",
+				"/gitlab/lego/lego-loader/src/index.js",
+				"/gitlab/lego/lego-boost-ui/build/index.js",
+				"/gitlab/lego/lego-toolkit/src/index.js",
+				"/gitlab/lego/lego-model/src/index.js",
+				"/gitlab/lego/lego-engine/src/index.js",
+				"/gitlab/lego/lego-boost-ui/src/index.js",
+				"/gitlab/lego/lego-composer/build/kissy.json",
+				"/gitlab/lego/lego-composer/build/seed.js",
+				"/gitlab/lego/lego-toolkit/build/seed.js",
+				"/gitlab/lego/lego-toolkit/build/kissy.json",
+				"/gitlab/lego/lego-toolkit/Gruntfile.js",
+				"/gitlab/lego/seed/package.json",
+				"/gitlab/lego/seed/build/seed.js",
+				"/gitlab/lego/lego-composer/build/index.js",
+				"/gitlab/lego/lego-boost-ui/package.json",
+				"/gitlab/lego/seed/build/kissy.json",
+				"/gitlab/lego/seed/build/intro.js",
+				"/gitlab/lego/seed/Gruntfile.js",
+				"/gitlab/lego/seed/kissy.json",
+				"/gitlab/lego/seed/src/extra.js",
+				"/gitlab/lego/lego-toolkit/package.json",
+				"/gitlab/lego/lego-composer/Gruntfile.js",
+				"/gitlab/lego/lego-loader/Gruntfile.js",
+				"/gitlab/lego/lego-loader/package.json",
+				"/gitlab/lego/lego-loader/build/index.js",
+				"/gitlab/lego/lego-boost-ui/build/test.htm",
+				"/gitlab/lego/seed/build/seed-min.js",
+				"/gitlab/lego/lego-toolkit/build/index.js",
 				"/gitlab/tb/snapshot/demo/index.htm",
-				"/gitlab/sea/buy/.gitignore",
-				"/gitlab/xiaocong.hxc/noscheme/.gitignore",
-				"/lab/test4/.gitignore",
-				"/gitlab/xiaocong.hxc/noscheme/lib/util/log.js",
-				"/gitlab/xiaocong.hxc/noscheme/lib/util/misc.js",
-				"/gitlab/xiaocong.hxc/noscheme/lib/factory.js",
-				"/gitlab/xiaocong.hxc/noscheme/index.js",
-				"/gitlab/xiaocong.hxc/noscheme/example.config.js",
-				"/gitlab/xiaocong.hxc/noscheme/bin/noscheme",
-				"/gitlab/xiaocong.hxc/noscheme/lib/replace.js",
-				"/gitlab/xiaocong.hxc/noscheme/package.json",
-				"/gitlab/tb/snapshot-market/build/seed.js",
-				"/gitlab/tb/snapshot-market/build/seed-min.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/node_modules/@ali/kissy-runtime/index.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/lib/kissy-meta.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/test/spec/loader.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/README.md",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/node_modules/@ali/kissy-loader/demo/seed.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/lib/kissy-loader/lib/init.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/lib/kissy-loader/lib/config.js",
-				"/gitlab/tb/snapshot-market/src/mods/price/index.xtpl",
-				"/gitlab/tb/snapshot-market/src/mods/title/index.xtpl",
-				"/gitlab/tb/snapshot-market/src/mods/price/index-xtpl.js",
-				"/gitlab/xiaocong.hxc/noscheme/test.js",
-				"/gitlab/sea/buy/src/mods/station/pc/address.js",
-				"/gitlab/tbm/snapshot/app.js",
-				"/gitlab/tbm/snapshot/package.json",
-				"/gitlab/tbm/snapshot/app/controllers/snapshot-controller.js",
-				"/gitlab/tbm/snapshot/bin/_app.js",
-				"/gitlab/tbm/snapshot/node_modules/midway/lib/modules/config.js",
-				"/gitlab/tbm/snapshot/node_modules/midway/lib/modules/info.js",
-				"/gitlab/tbm/snapshot/node_modules/midway/lib/midway.js",
-				"/gitlab/tbm/snapshot/config/production.conf",
-				"/gitlab/tbm/snapshot/config/development.conf",
-				"/gitlab/tbm/snapshot/README.md",
-				"/gitlab/tbm/snapshot/config/base.conf",
-				"/gitlab/tbm/snapshot/node_modules/midway/meta/koa-default.conf",
-				"/gitlab/tbm/snapshot/node_modules/midway/node_modules/path-tools/index.js",
-				"/gitlab/tbm/snapshot/node_modules/midway/node_modules/@ali/midway-utils/lib/rich-path.js",
-				"/gitlab/tbm/snapshot/node_modules/midway/lib/utils/module-util.js",
-				"/gitlab/tbm/snapshot/config/interface/interfaceRules/Snap.detailCO.rule.json",
-				"/gitlab/tbm/snapshot/config/interface/interfaceRules/Snap.sellerCO.rule.json",
-				"/gitlab/tbm/snapshot/config/interface/interfaceRules/Snap.snapCO.rule.json",
-				"/gitlab/tbm/snapshot/app/views/page/snapshot-page.xtpl",
+				"/gitlab/lego/lego-model/build/index.js",
 				"/gitlab/lego/seed/mock/snapshot.js",
 				"/gitlab/lego/seed/test/index.htm",
-				"/gitlab/lego/lego-loader/build/index.js",
-				"/gitlab/lego/lego-composer/build/index.js",
-				"/gitlab/lego/seed/build/seed.js",
-				"/gitlab/lego/lego-model/build/index.js",
-				"/gitlab/lego/lego-boost-ui/build/index.js"
+				"/gitlab/lego/lego-market-test/build/seed.js",
+				"/gitlab/lego/lego-market-test/Gruntfile.js",
+				"/gitlab/lego/lego-market-test/package.json",
+				"/gitlab/lego/lego-market-test/src/mods/address/index.js",
+				"/gitlab/lego/lego-engine/build/index.js",
+				"/gitlab/lego/lego-market-test/src/mods/address/index.less",
+				"/gitlab/lego/lego-market-test/src/mods/address/index.css",
+				"/gitlab/lego/lego-market-test/src/mods/confirmOrder/index.js",
+				"/gitlab/lego/lego-market-test/build/mods/confirmOrder/index.js",
+				"/gitlab/lego/lego-market-test/build/mods/address/index.js",
+				"/gitlab/lego/lego-market-test/src/config.json",
+				"/gitlab/lego/lego-market-test/build/index.js",
+				"/gitlab/lego/lego-market-test/build/index-min.js",
+				"/gitlab/lego/seed/mock/mock.js",
+				"/lab/lego/lego-toolkit/index.js",
+				"/lab/lego/lego-model/index.js",
+				"/lab/es6-playground/test.js",
+				"/gitlab/kissy/k/build/seed.js",
+				"/gitlab/kissy/k/build/base.js",
+				"/gitlab/buy/demo/demo/data.js",
+				"/gitlab/buy/demo/package.json",
+				"/gitlab/tb/buy/build/mt/mods/address/pc/index-min.css",
+				"/gitlab/tb/buy/build/mt/mods-dep.js",
+				"/gitlab/tb/buy/mt/whitelist.js",
+				"/gitlab/tb/buy/build/mt/whitelist.js",
+				"/gitlab/tb/buy/build/mt/core/loader/loader.js",
+				"/gitlab/tb/buy/build/mt/widgets/track.js",
+				"/gitlab/tb/buy/build/mt/widgets/loading.js",
+				"/gitlab/tb/buy/build/mt/widgets/mag.js",
+				"/gitlab/tb/buy/build/mt/mods/address/pc/index.css",
+				"/gitlab/buy/demo/src/component/address/index.js",
+				"/gitlab/tb/buy/build/mt/core.js",
+				"/gitlab/tb/buy/mt/index.js",
+				"/gitlab/tb/buy/Gruntfile.js",
+				"/gitlab/tb/buy/build/mt/index.js",
+				"/gitlab/buy/demo/Gruntfile.js",
+				"/gitlab/buy/upgrade-buy-tb/ref/subview_parent.txt",
+				"/gitlab/buy/upgrade-buy-tb/ref/subview.txt",
+				"/gitlab/buy/base/src/base/xtpl-ext/commands.js",
+				"/gitlab/buy/demo/src/component/order/template.xtpl",
+				"/gitlab/buy/base/src/base/component/render/view.js",
+				"/gitlab/buy/demo/src/component/confirmOrder/template.xtpl",
+				"/gitlab/buy/demo/src/component/confirmOrder/index.js",
+				"/gitlab/buy/demo/src/component/address/template.xtpl",
+				"/gitlab/buy/base/src/base/model.js",
+				"/gitlab/tb/buy/mt/mods/terms/pc/eticket.xtpl.html",
+				"/gitlab/tb/buy/mt/mods/terms/pc/index.xtpl.html",
+				"/gitlab/tb/buy/mt/mods/confirmOrder/pc/index.xtpl.html",
+				"/gitlab/buy/base/src/base/engine.js",
+				"/gitlab/buy/demo/src/component/anonymous/index.js",
+				"/gitlab/buy/demo/src/component/cod/index.js",
+				"/gitlab/buy/demo/src/component/eticketDesc/index.js",
+				"/gitlab/buy/base/src/base/view.js",
+				"/gitlab/buy/base/src/base/renderer.js",
+				"/gitlab/buy/base/src/base/component.js",
+				"/gitlab/buy/base/src/base/agent.js",
+				"/gitlab/buy/base/src/base/helper/price.js",
+				"/gitlab/buy/base/src/base/util/assert.js",
+				"/gitlab/buy/base/src/base/util/fmt.js",
+				"/gitlab/buy/demo/demo/index.html",
+				"/Users/john/Desktop/mock.json",
+				"/gitlab/buy/demo/src/component/dsDesc/index.js",
+				"/gitlab/tb/buy/mt/mods/address/pc/index.js",
+				"/gitlab/buy/demo/src/component/address/model.js",
+				"/gitlab/buy/demo/src/whitelist.js",
+				"/gitlab/buy/upgrade-buy-tb/ref/output.txt",
+				"/gitlab/buy/upgrade-buy-tb/ref/count.json",
+				"/gitlab/buy/upgrade-buy-tb/getview.js",
+				"/gitlab/buy/base/src/base/order-data.js",
+				"/gitlab/buy/base/src/base/xtpl-ext/wrap.js",
+				"/gitlab/tb/buy/mt/mods/agencyPay/pc/index.js",
+				"/gitlab/buy/demo/src/component/base/input/view.js",
+				"/gitlab/buy/demo/src/component/base/input/index.js",
+				"/Users/john/Downloads/淘云盘打包下载_20141222_13_54/wirelss_mock_data.json",
+				"/Users/john/Desktop/tm.json",
+				"/Users/john/Desktop/sold.json",
+				"/Users/john/Downloads/wirelss_mock_data.json",
+				"/gitlab/tb/buy/mt/mods/tmallPoint/pc/index.js",
+				"/gitlab/tb/buy/mt/core/render/render.js",
+				"/gitlab/tb/buy/mt/core/index.js",
+				"/gitlab/tb/buy/mt/core/public.js",
+				"/gitlab/tb/buy/mt/mods/submitOrder/pc/index.js",
+				"/gitlab/buy/demo/src/component/submitOrder/view.js",
+				"/gitlab/buy/demo/src/component/submitOrder/model.js",
+				"/gitlab/tb/buy/mt/core/meta/sub-models/component.js",
+				"/gitlab/tb/buy/mt/core/render/sub-models/event-binder.js",
+				"/gitlab/tb/buy/mt/base/input/index.js",
+				"/gitlab/buy/demo/src/component/tmallPoint/view.js",
+				"/gitlab/buy/demo/src/component/tmallPoint/model.js",
+				"/lab/test/src/component/base/datePicker/view.js",
+				"/gitlab/buy/demo/src/component/base/datepicker/view.js",
+				"/gitlab/buy/demo/src/component/base/label/view.js",
+				"/gitlab/tb/buy/mt/base/label/index.js",
+				"/gitlab/tb/buy/mt/base/table/index.js",
+				"/gitlab/buy/demo/src/component/base/table/index.js"
 			],
 			"find":
 			{
@@ -1923,8 +1770,6 @@
 				"height": 93.0,
 				"where_history":
 				[
-					"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed",
-					"/gitlab/tbm/snapshot/node_modules/midway",
 					"/gitlab/kissy/loader",
 					"/gitlab/kissy/k/build",
 					"/gitlab/tb/buy/build/mt/mods",
@@ -2050,7 +1895,9 @@
 					"/Users/john/Work/repos/rob/Gruntfile.js",
 					"/Users/john/Library/Application Support/Sublime Text 3/Packages/sublime-monokai-extended/Monokai Extended.tmTheme",
 					"/Users/john/Work/repos/rob/adress2.js",
-					"/Users/john/Library/Application Support/Sublime Text 3/Packages/sublime-monokai-extended/Monokai Extended Bright.tmTheme"
+					"/Users/john/Library/Application Support/Sublime Text 3/Packages/sublime-monokai-extended/Monokai Extended Bright.tmTheme",
+					"/Users/john/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+					"/Users/john/Work/repos/rob/adress2.js"
 				]
 			},
 			"find_state":
@@ -2058,19 +1905,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"console",
-					"var",
-					"tabbar_1",
-					"daily",
-					"tbcdn",
-					"http",
-					"computeRootPath",
-					"NODE_ENV_KEY",
-					"NODE_ENV",
-					"makeAppConfigPath",
-					"appEnvParentConfig",
-					"configModule",
-					"config",
+					"util",
 					"description",
 					"base_1",
 					"description",
@@ -2185,7 +2020,19 @@
 					"alert",
 					"debugger",
 					"anim",
-					"global-min"
+					"global-min",
+					"S",
+					"event",
+					"base",
+					"KISSY",
+					"Kissy",
+					"kissy",
+					"Kissy",
+					"buildHtml",
+					"kg/",
+					"relations",
+					"relation",
+					"kg"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2219,57 +2066,24 @@
 			"groups":
 			[
 				{
-					"selected": 6,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/gitlab/kpm/kpm/index.js",
+							"file": "/gitlab/lego/lego-boost-ui/src/index.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1572,
+								"buffer_size": 2989,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1231,
-										1243
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"hasHeader": false,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/gitlab/kpm/kpm-seed/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 962,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										374,
-										386
+										2526,
+										2526
 									]
 								],
 								"settings":
@@ -2279,176 +2093,6 @@
 									"origin_encoding": "ASCII",
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/gitlab/kpm/kpm-seed/lib/factory.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1657,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										230,
-										230
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"auto_complete": false,
-									"hasHeader": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/gitlab/kpm/kpm-module-parse/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1521,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										201,
-										201
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"auto_complete": false,
-									"hasHeader": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 9,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/gitlab/kpm/kpm-module-parse/package.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 589,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										56,
-										56
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"auto_complete": true,
-									"hasHeader": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/gitlab/kpm/kpm-seed/package.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 755,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										48,
-										48
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"auto_complete": true,
-									"hasHeader": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/gitlab/kpm/grunt-kpm/package.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 891,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										883,
-										883
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"auto_complete": true,
-									"hasHeader": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
@@ -2456,138 +2100,6 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/gitlab/kpm/kpm-seed/lib/template/seed.tpl",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 737,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										464,
-										464
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"hasHeader": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/gitlab/kpm/kpm/test/result/kissy.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 274,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										167,
-										167
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"auto_complete": true,
-									"hasHeader": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"file": "/gitlab/kpm/kpm/test/result/seed.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 566,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										560,
-										560
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"auto_complete": false,
-									"hasHeader": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 10,
-							"file": "/gitlab/kpm/kpm-module-parse/test/test.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 450,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										450,
-										450
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"hasHeader": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 10,
 							"type": "text"
 						}
 					]
@@ -2632,8 +2144,9 @@
 			{
 				"height": 98.0
 			},
-			"position": "0 0 0 1392 877 0 0 1440 877 ",
-			"project": "kpm.sublime-project",
+			"pinned_build_system": "",
+			"position": "0 200 943 1392 877 -418 900 1920 1057 ",
+			"project": "lego.sublime-project",
 			"replace":
 			{
 				"height": 72.0
@@ -2642,6 +2155,7 @@
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -2650,6 +2164,7 @@
 			"select_project":
 			{
 				"height": 500.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -2658,6 +2173,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -2667,7 +2183,7 @@
 			"settings":
 			{
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
@@ -2676,8 +2192,8 @@
 			"template_settings":
 			{
 			},
-			"window_id": 667,
-			"workspace_name": "/Users/john/SublimeProjects/kpm.sublime-workspace"
+			"window_id": 736,
+			"workspace_name": "/Users/john/SublimeProjects/lego.sublime-workspace"
 		},
 		{
 			"auto_complete":
@@ -3045,34 +2561,87 @@
 			"buffers":
 			[
 				{
-					"file": "/gitlab/lego/seed/build/seed.js",
+					"file": "/gitlab/buy/demo/src/app.js",
 					"settings":
 					{
-						"buffer_size": 1766,
+						"buffer_size": 359,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/gitlab/lego/seed/Gruntfile.js",
+					"file": "/gitlab/buy/demo/src/app.xtpl",
 					"settings":
 					{
-						"buffer_size": 2005,
+						"buffer_size": 616,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/gitlab/lego/seed/package.json",
+					"file": "/gitlab/buy/demo/src/component/LogisticsConfirm/index.js",
 					"settings":
 					{
-						"buffer_size": 404,
+						"buffer_size": 1311,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/buy/demo/src/component/order/index.js",
+					"settings":
+					{
+						"buffer_size": 2891,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/buy/demo/src/component/orders/index.js",
+					"settings":
+					{
+						"buffer_size": 1675,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/buy/demo/src/component/items/index.js",
+					"settings":
+					{
+						"buffer_size": 1369,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/buy/demo/src/base/boost-ui.js",
+					"settings":
+					{
+						"buffer_size": 2207,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/buy/demo/src/base/loader.js",
+					"settings":
+					{
+						"buffer_size": 6864,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/buy/demo/src/base/components.js",
+					"settings":
+					{
+						"buffer_size": 1245,
 						"line_ending": "Unix"
 					}
 				}
 			],
 			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
 				"height": 400.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -3193,37 +2762,43 @@
 			},
 			"expanded_folders":
 			[
-				"/gitlab/lego/lego-composer/src",
-				"/gitlab/lego/seed",
-				"/gitlab/lego/seed/build",
-				"/gitlab/lego/lego-loader/build",
-				"/gitlab/lego/lego-boost-ui/build"
+				"/gitlab/buy/demo",
+				"/gitlab/buy/demo/src/base",
+				"/gitlab/buy/demo/src/component/LogisticsConfirm",
+				"/gitlab/buy/demo/src/component/order",
+				"/gitlab/buy/demo/src/component/orders"
 			],
 			"file_history":
 			[
-				"/gitlab/lego/seed/kissy.json",
+				"/gitlab/lego/lego-composer/src/index.js",
+				"/gitlab/lego/lego-loader/src/index.js",
+				"/gitlab/lego/lego-boost-ui/build/index.js",
+				"/gitlab/lego/lego-toolkit/src/index.js",
+				"/gitlab/lego/lego-model/src/index.js",
+				"/gitlab/lego/lego-engine/src/index.js",
+				"/gitlab/lego/lego-boost-ui/src/index.js",
 				"/gitlab/lego/lego-composer/build/kissy.json",
 				"/gitlab/lego/lego-composer/build/seed.js",
-				"/gitlab/lego/seed/build/kissy.json",
-				"/gitlab/lego/seed/Gruntfile.js",
-				"/gitlab/lego/seed/build/seed.js",
-				"/gitlab/lego/seed/package.json",
-				"/gitlab/lego/lego-toolkit/src/index.js",
-				"/gitlab/lego/seed/build/intro.js",
-				"/gitlab/lego/seed/src/extra.js",
+				"/gitlab/lego/lego-toolkit/build/seed.js",
+				"/gitlab/lego/lego-toolkit/build/kissy.json",
 				"/gitlab/lego/lego-toolkit/Gruntfile.js",
+				"/gitlab/lego/seed/package.json",
+				"/gitlab/lego/seed/build/seed.js",
+				"/gitlab/lego/lego-composer/build/index.js",
+				"/gitlab/lego/lego-boost-ui/package.json",
+				"/gitlab/lego/seed/build/kissy.json",
+				"/gitlab/lego/seed/build/intro.js",
+				"/gitlab/lego/seed/Gruntfile.js",
+				"/gitlab/lego/seed/kissy.json",
+				"/gitlab/lego/seed/src/extra.js",
 				"/gitlab/lego/lego-toolkit/package.json",
 				"/gitlab/lego/lego-composer/Gruntfile.js",
 				"/gitlab/lego/lego-loader/Gruntfile.js",
 				"/gitlab/lego/lego-loader/package.json",
 				"/gitlab/lego/lego-loader/build/index.js",
-				"/gitlab/lego/lego-composer/src/index.js",
-				"/gitlab/lego/lego-composer/build/index.js",
-				"/gitlab/lego/lego-boost-ui/build/index.js",
 				"/gitlab/lego/lego-boost-ui/build/test.htm",
 				"/gitlab/lego/seed/build/seed-min.js",
 				"/gitlab/lego/lego-toolkit/build/index.js",
-				"/gitlab/lego/lego-toolkit/build/kissy.json",
 				"/gitlab/tb/snapshot/demo/index.htm",
 				"/gitlab/lego/lego-model/build/index.js",
 				"/gitlab/lego/seed/mock/snapshot.js",
@@ -3322,13 +2897,7 @@
 				"/gitlab/buy/demo/src/component/base/label/view.js",
 				"/gitlab/tb/buy/mt/base/label/index.js",
 				"/gitlab/tb/buy/mt/base/table/index.js",
-				"/gitlab/buy/demo/src/component/base/table/index.js",
-				"/gitlab/buy/demo/src/component/base/table/view.js",
-				"/gitlab/buy/demo/src/component/stepPay/index.js",
-				"/nep/config.js",
-				"/gitlab/buy/demo/src/component/tmallPoint/index.js",
-				"/gitlab/buy/demo/build/demo/index.html",
-				"/gitlab/buy/demo/src/component/base/datepicker/index.js"
+				"/gitlab/buy/demo/src/component/base/table/index.js"
 			],
 			"find":
 			{
@@ -3474,6 +3043,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"util",
 					"description",
 					"base_1",
 					"description",
@@ -3600,8 +3170,7 @@
 					"kg/",
 					"relations",
 					"relation",
-					"kg",
-					"tab-pannel"
+					"kg"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -3632,33 +3201,267 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/gitlab/buy/demo"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 5,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/gitlab/lego/seed/build/seed.js",
+							"file": "/gitlab/buy/demo/src/app.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1766,
+								"buffer_size": 359,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										443,
-										443
+										359,
+										359
 									]
 								],
 								"settings":
 								{
 									"apply_syntax_touched": true,
-									"auto_complete": false,
+									"hasHeader": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/gitlab/buy/demo/src/app.xtpl",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 616,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										358,
+										358
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"hasHeader": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Xtemplate/Syntaxes/xtemplate.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/gitlab/buy/demo/src/component/LogisticsConfirm/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1311,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1155,
+										1155
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"hasHeader": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/gitlab/buy/demo/src/component/order/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2891,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										690,
+										690
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"hasHeader": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 665.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/gitlab/buy/demo/src/component/orders/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1675,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										409,
+										409
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"hasHeader": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/gitlab/buy/demo/src/component/items/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1369,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										554,
+										554
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"hasHeader": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/gitlab/buy/demo/src/base/boost-ui.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2207,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1154,
+										1154
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"hasHeader": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 530.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/gitlab/buy/demo/src/base/loader.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6864,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										417,
+										417
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
 									"hasHeader": false,
 									"origin_encoding": "UTF-8",
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
@@ -3673,67 +3476,33 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/gitlab/lego/seed/Gruntfile.js",
+							"buffer": 8,
+							"file": "/gitlab/buy/demo/src/base/components.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2005,
+								"buffer_size": 1245,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										638,
-										638
+										221,
+										221
 									]
 								],
 								"settings":
 								{
 									"apply_syntax_touched": true,
 									"hasHeader": false,
-									"origin_encoding": "ASCII",
+									"origin_encoding": "UTF-8",
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 455.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/gitlab/lego/seed/package.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 404,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										404,
-										404
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"auto_complete": true,
-									"hasHeader": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 110.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -3781,16 +3550,18 @@
 			{
 				"height": 98.0
 			},
+			"pinned_build_system": "",
 			"position": "0 0 0 1392 877 0 0 1440 877 ",
-			"project": "lego.sublime-project",
+			"project": "",
 			"replace":
 			{
-				"height": 72.0
+				"height": 42.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -3799,6 +3570,7 @@
 			"select_project":
 			{
 				"height": 500.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -3807,6 +3579,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -3825,14 +3598,30 @@
 			"template_settings":
 			{
 			},
-			"window_id": 659,
-			"workspace_name": "/Users/john/SublimeProjects/lego.sublime-workspace"
+			"window_id": 741,
+			"workspace_name": ""
 		},
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"or",
+						"orderId"
+					],
+					[
+						"b",
+						"buyerId"
+					],
+					[
+						"boost",
+						"boostUI"
+					],
+					[
+						"lo",
+						"loadMediator"
+					],
 					[
 						"time",
 						"timeLimit"
@@ -4194,10 +3983,6 @@
 						"exist"
 					],
 					[
-						"or",
-						"originalPattern"
-					],
-					[
 						"mat",
 						"matchFn"
 					]
@@ -4205,11 +3990,63 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/gitlab/tb/snapshot/demo/index.htm",
+					"settings":
+					{
+						"buffer_size": 3123,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/tb/snapshot-market/src/mods/assumpsit/index.js",
+					"settings":
+					{
+						"buffer_size": 535,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/tb/snapshot/src/order.js",
+					"settings":
+					{
+						"buffer_size": 810,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/tb/snapshot-market/src/mods/ladderGroupon/index.js",
+					"settings":
+					{
+						"buffer_size": 2515,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/gitlab/tb/snapshot-market/build/mods/ladderGroupon/index.js",
+					"settings":
+					{
+						"buffer_size": 2615,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
 				"height": 400.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -4330,36 +4167,66 @@
 			},
 			"expanded_folders":
 			[
-				"/github/grunt-lego-market-index",
-				"/github/grunt-lego-market-index/tasks/template",
-				"/github/grunt-lego-market-index/test/expected"
+				"/gitlab/tb/snapshot",
+				"/gitlab/tb/snapshot/demo",
+				"/gitlab/tb/snapshot/src",
+				"/gitlab/tb/snapshot-market",
+				"/gitlab/tb/snapshot-market/src",
+				"/gitlab/tb/snapshot-market/src/mods",
+				"/gitlab/tb/snapshot-market/src/mods/assumpsit"
 			],
 			"file_history":
 			[
-				"/github/grunt-lego-market-index/Gruntfile.js",
-				"/github/grunt-lego-market-index/tasks/lego_market_outro.js",
-				"/github/grunt-lego-market-index/tasks/template/index.tpl",
-				"/github/grunt-lego-market-index/test/expected/index.js",
-				"/github/grunt-lego-market-index/package.json",
-				"/github/grunt-lego-market-index/test.js",
+				"/gitlab/tb/snapshot/build/seed.js",
+				"/gitlab/tb/snapshot/demo/index.htm",
+				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/index.js",
+				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/lib/kissy-loader/lib/get-script-nodejs.js",
+				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/lib/kissy-meta.js",
+				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/lib/kissy-loader/index.js",
+				"/gitlab/tbm/snapshot/bin/app.js",
+				"/gitlab/tbm/snapshot/package.json",
+				"/gitlab/tbm/snapshot/app/controllers/snapshot-controller.js",
+				"/gitlab/tbm/snapshot/app/views/layout/default-layout.xtpl",
+				"/gitlab/tb/snapshot/kissy.json",
+				"/gitlab/tb/snapshot/package.json",
+				"/gitlab/tbm/snapshot/app/routes/snapshot-router.js",
+				"/gitlab/tb/snapshot-transform/src/index.js",
+				"/gitlab/tb/snapshot/demo/mock/pc.js",
+				"/gitlab/tbm/snapshot/app/mock/snapshot.json",
+				"/gitlab/tbm/snapshot/app/views/page/snapshot-page.xtpl",
+				"/gitlab/tbm/snapshot/app/views/snapshot.xtpl",
+				"/gitlab/tbm/snapshot/config/base.conf",
+				"/gitlab/tbm/snapshot/config/development.conf",
+				"/gitlab/tbm/snapshot/config/local.conf",
+				"/gitlab/tb/snapshot-market/src/mods/hotelPrice/index.js",
+				"/gitlab/tb/snapshot-market/src/mods/lightSnap/index.js",
+				"/gitlab/tbm/snapshot/app/mock/mock.json",
+				"/gitlab/tb/snapshot-market/src/mods/assumpsit/index.js",
+				"/gitlab/tb/snapshot-market/src/mods/lightSnap",
+				"/gitlab/tb/snapshot-market/build/mods/base/index.js",
+				"/gitlab/tb/snapshot-market/build/mods/attributes/index.js",
+				"/gitlab/tb/snapshot-market/build/mods/eTick/index.js",
+				"/gitlab/tb/snapshot-market/build/seed.js",
+				"/gitlab/tb/snapshot-market/build/mods/attributes/index-min.js",
+				"/gitlab/tbm/snapshot/logs/nodejs.log.2015-03-24",
+				"/gitlab/tbm/snapshot/logs/nodejs.log.2015-03-05",
+				"/gitlab/tbm/snapshot/app/routes/check-router.js",
+				"/gitlab/tb/snapshot-market/build/outro.js",
+				"/gitlab/tb/snapshot-market/Gruntfile.js",
+				"/gitlab/tb/snapshot-market/kissy.json",
+				"/gitlab/tb/snapshot/build/kissy.json",
+				"/gitlab/tb/snapshot-market/package.json",
+				"/gitlab/tb/snapshot-market/build/kissy.json",
+				"/gitlab/tb/snapshot-market/src/outro.js",
+				"/gitlab/tb/snapshot/kissy.tmp.json",
 				"/gitlab/tb/snapshot/Gruntfile.js",
 				"/gitlab/tb/snapshot-market/node_modules/@ali/grunt-lego-market-index/tasks/template/index.tpl",
 				"/gitlab/tb/snapshot-market/node_modules/@ali/grunt-lego-market-index/tasks/lego_market_index.js",
 				"/gitlab/tb/snapshot-market/node_modules/@ali/grunt-lego-market-index/Gruntfile.js",
-				"/gitlab/tb/snapshot-market/Gruntfile.js",
-				"/gitlab/tb/snapshot/package.json",
-				"/gitlab/tb/snapshot/kissy.json",
-				"/gitlab/tb/snapshot-market/build/seed.js",
-				"/gitlab/tb/snapshot-market/kissy.json",
 				"/gitlab/tb/snapshot-market/src/config.json",
-				"/gitlab/tb/snapshot/demo/index.htm",
 				"/gitlab/tb/snapshot-market/node_modules/grunt-contrib-clean/tasks/clean.js",
-				"/gitlab/tbm/snapshot/app/views/layout/default-layout.xtpl",
 				"/gitlab/tb/snapshot-market/src/mods/freight/index.js",
 				"/gitlab/tb/snapshot-market/node_modules/grunt-contrib-copy/tasks/copy.js",
-				"/gitlab/tb/snapshot-market/src/mods/assumpsit/index.js",
-				"/gitlab/tbm/snapshot/bin/app.js",
-				"/gitlab/tbm/snapshot/app/views/page/snapshot-page.xtpl",
 				"/gitlab/tb/snapshot-market/src/mods/price/index.xtpl",
 				"/gitlab/tb/snapshot-market/src/mods/freight/index.xtpl",
 				"/gitlab/tb/snapshot-market/src/mods/base/index.xtpl",
@@ -4367,17 +4234,10 @@
 				"/gitlab/tb/snapshot-market/src/mods/description/index.xtpl",
 				"/gitlab/tb/snapshot-market/src/mods/freight/index-xtpl.js",
 				"/gitlab/tb/snapshot-market/src/mods/detail/index.xtpl",
-				"/gitlab/tbm/snapshot/app/controllers/snapshot-controller.js",
 				"/gitlab/tb/snapshot-market/src/mods/assumpsit/locales/zh_cn.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/index.js",
 				"/gitlab/tb/snapshot-market/src/mods/tabbar/index.js",
-				"/gitlab/tb/snapshot/demo/mock/pc.js",
-				"/gitlab/tbm/snapshot/app/mock/snapshot.json",
 				"/gitlab/tb/snapshot-market/src/mods/description/index.js",
 				"/gitlab/tb/snapshot-market/src/mods/tabbar/index.xtpl",
-				"/gitlab/tbm/snapshot/app/mock/mock.json",
-				"/gitlab/tbm/snapshot/config/local.conf",
-				"/gitlab/tbm/snapshot/app/views/snapshot.xtpl",
 				"/gitlab/sea/buy/.gitignore",
 				"/gitlab/xiaocong.hxc/noscheme/.gitignore",
 				"/lab/test4/.gitignore",
@@ -4391,7 +4251,6 @@
 				"/gitlab/xiaocong.hxc/noscheme/package.json",
 				"/gitlab/tb/snapshot-market/build/seed-min.js",
 				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/node_modules/@ali/kissy-runtime/index.js",
-				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/lib/kissy-meta.js",
 				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/test/spec/loader.js",
 				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/README.md",
 				"/gitlab/tbm/snapshot/node_modules/@ali/kissy-seed/node_modules/@ali/kissy-loader/demo/seed.js",
@@ -4402,15 +4261,12 @@
 				"/gitlab/xiaocong.hxc/noscheme/test.js",
 				"/gitlab/sea/buy/src/mods/station/pc/address.js",
 				"/gitlab/tbm/snapshot/app.js",
-				"/gitlab/tbm/snapshot/package.json",
 				"/gitlab/tbm/snapshot/bin/_app.js",
 				"/gitlab/tbm/snapshot/node_modules/midway/lib/modules/config.js",
 				"/gitlab/tbm/snapshot/node_modules/midway/lib/modules/info.js",
 				"/gitlab/tbm/snapshot/node_modules/midway/lib/midway.js",
 				"/gitlab/tbm/snapshot/config/production.conf",
-				"/gitlab/tbm/snapshot/config/development.conf",
 				"/gitlab/tbm/snapshot/README.md",
-				"/gitlab/tbm/snapshot/config/base.conf",
 				"/gitlab/tbm/snapshot/node_modules/midway/meta/koa-default.conf",
 				"/gitlab/tbm/snapshot/node_modules/midway/node_modules/path-tools/index.js",
 				"/gitlab/tbm/snapshot/node_modules/midway/node_modules/@ali/midway-utils/lib/rich-path.js",
@@ -4448,22 +4304,7 @@
 				"/gitlab/buy/demo/demo/data.js",
 				"/gitlab/buy/demo/package.json",
 				"/gitlab/tb/buy/build/mt/mods/address/pc/index-min.css",
-				"/gitlab/tb/buy/build/mt/mods-dep.js",
-				"/gitlab/tb/buy/mt/whitelist.js",
-				"/gitlab/tb/buy/build/mt/whitelist.js",
-				"/gitlab/tb/buy/build/mt/core/loader/loader.js",
-				"/gitlab/tb/buy/build/mt/widgets/track.js",
-				"/gitlab/tb/buy/build/mt/widgets/loading.js",
-				"/gitlab/tb/buy/build/mt/widgets/mag.js",
-				"/gitlab/tb/buy/build/mt/mods/address/pc/index.css",
-				"/gitlab/buy/demo/src/component/address/index.js",
-				"/gitlab/tb/buy/build/mt/core.js",
-				"/gitlab/tb/buy/mt/index.js",
-				"/gitlab/tb/buy/Gruntfile.js",
-				"/gitlab/tb/buy/build/mt/index.js",
-				"/gitlab/buy/demo/Gruntfile.js",
-				"/gitlab/buy/upgrade-buy-tb/ref/subview_parent.txt",
-				"/gitlab/buy/upgrade-buy-tb/ref/subview.txt"
+				"/gitlab/tb/buy/build/mt/mods-dep.js"
 			],
 			"find":
 			{
@@ -4609,6 +4450,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"description_2",
+					"assumpsit",
+					"tradeItem",
 					"cwd",
 					"{{{",
 					"tabbar_1",
@@ -4733,10 +4577,7 @@
 					"slide-util",
 					"mini",
 					"mini-full",
-					"alert",
-					"debugger",
-					"anim",
-					"global-min"
+					"alert"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -4767,18 +4608,206 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/github/grunt-lego-market-index"
-				}
-			],
 			"groups":
 			[
 				{
+					"selected": 3,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/gitlab/tb/snapshot/demo/index.htm",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3123,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										891,
+										891
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"auto_complete": false,
+									"hasHeader": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"default_dir": "/gitlab/tb/snapshot/src",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/gitlab/tb/snapshot-market/src/mods/assumpsit/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 535,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										535
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"hasHeader": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/gitlab/tb/snapshot/src/order.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 810,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										632,
+										632
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"auto_complete": false,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/gitlab/tb/snapshot-market/src/mods/ladderGroupon/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2515,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1531,
+										1540
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"hasHeader": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/gitlab/tb/snapshot-market/build/mods/ladderGroupon/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2615,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										352,
+										352
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"hasHeader": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -4821,16 +4850,18 @@
 			{
 				"height": 98.0
 			},
+			"pinned_build_system": "",
 			"position": "0 0 0 1392 877 0 0 1440 877 ",
-			"project": "",
+			"project": "snapshot.sublime-project",
 			"replace":
 			{
-				"height": 42.0
+				"height": 72.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -4839,6 +4870,7 @@
 			"select_project":
 			{
 				"height": 500.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -4847,6 +4879,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -4865,8 +4898,8 @@
 			"template_settings":
 			{
 			},
-			"window_id": 666,
-			"workspace_name": ""
+			"window_id": 742,
+			"workspace_name": "/Users/john/SublimeProjects/snapshot.sublime-workspace"
 		}
 	],
 	"workspaces":
@@ -4874,12 +4907,13 @@
 		"recent_workspaces":
 		[
 			"/Users/john/SublimeProjects/snapshot.sublime-workspace",
-			"/Users/john/SublimeProjects/kpm.sublime-workspace",
 			"/Users/john/SublimeProjects/lego.sublime-workspace",
+			"/Users/john/SublimeProjects/insight.sublime-workspace",
+			"/Users/john/SublimeProjects/buy.sublime-workspace",
+			"/Users/john/SublimeProjects/kpm.sublime-workspace",
 			"/Users/john/SublimeProjects/buymisc.sublime-workspace",
 			"/Users/john/SublimeProjects/nep.sublime-workspace",
 			"/Users/john/SublimeProjects/txp.sublime-workspace",
-			"/Users/john/SublimeProjects/buy.sublime-workspace",
 			"/Users/john/SublimeProjects/proxy.sublime-workspace",
 			"/gitlab/tm/buy/src/data.sublime-workspace",
 			"/Users/john/SublimeProjects/cart.sublime-workspace",
