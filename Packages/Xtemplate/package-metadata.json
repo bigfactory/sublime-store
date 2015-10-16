@@ -1,1 +1,1 @@
-{"version": "1.1.3", "url": "https://sublime.wbond.net/packages/Xtemplate", "platforms": ["*"], "sublime_text": "*", "description": "KISSY Xtemplate syntax highlight & snippets", "dependencies": []}
+{"sublime_text": "*", "description": "Syntax highlighting & snippets for the Xtemplate", "version": "1.2.5", "url": "https://packagecontrol.io/packages/Xtemplate", "platforms": ["*"], "dependencies": []}
